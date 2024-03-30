@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mondrian Project</title>
+  <style>
+    /* 
+    Write your CSS here 
+    Gap Colour: #000
+    White: #F0F1EC
+    Red: #E72F24
+    Black: #232629
+    Blue: #004592
+    Yellow: #F9D01E
+
+    For dimensions, see dimensions.png image.
+    HINT: Remember you can't change the properties of grid lines.
+    But grid lines are transparent!
+    */
+
+    .grid-container {
+      display: grid;
+      gap: 9px;
+      background-color: #000;
+      grid-template-rows: 414px 296px;
+      grid-template-columns: 320px 419px;
+      grid-auto-rows: 20px;
+      height: 748px;
+      width: 748px;
+    }
+
+    .grid_1-5 {
+      display: grid;
+      grid-template-columns: 360px 50px;
+      gap: 9px;
+      grid-auto-rows: 20px;
+    }
+
+    .grid_1-5-1{
+      display: grid;
+      grid-template-rows: 295px;
+      grid-template-columns: 360px;
+      grid-auto-rows: 20px;
+      gap: 9px;
+      background-color: green;
+    }
+
+    .grid_1-5-1-1{
+      display: grid;
+      grid-template-columns: 198px 153px;
+      gap: 9px;
+    }
+
+    .grid_1-5-2{
+      display: grid;
+      gap: 10px;
+      grid-template-rows: 130px;
+      grid-auto-rows: 185px;
+    }
+
+    #box1{
+      background-color: #E72F24;
+    }
+    
+    #box2{
+      background-color: #F0F1EC;
+    }
+
+    #box3{
+      background-color: #F0F1EC;
+    }
+
+    #box4{
+      background-color: #F0F1EC;
+    }
+
+    #box5{
+      background-color: #004592;
+    }
+
+    #box6{
+      background-color: #F0F1EC;
+    }
+
+    #box7{
+      background-color: #F9D01E;
+    }
+
+    #box8{
+      background-color: #232629;
+    }
+
+    #box9{
+      background-color: #F0F1EC;
+    }
+  </style>
+</head>
+
+<body>
+  <!-- Write your HTML here -->
+
+  <!-- Numbers labeled from left to right then top to bottom -->
+  <div class="grid-container">
+    <div id="box1"></div>
+    <div id="box2"></div>
+    <div id="box3"></div>
+    
+    <div class="grid_1-5">
+
+      <div class="grid_1-5-1">
+        <div id="box4"></div>
+        
+        <div class="grid_1-5-1-1">
+          <div id="box7"></div>
+          <div id="box8"></div>  
+        </div>
+      </div>
+
+      <div class="grid_1-5-2">
+        <div id="box5"></div>
+        <div id="box9"></div>
+      </div>
+
+    </div>
+    
+    <!-- overflow -->
+    <div id="box6"></div>
+  </div>
+</body>
+
+</html>
