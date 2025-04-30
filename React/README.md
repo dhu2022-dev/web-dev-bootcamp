@@ -70,13 +70,23 @@ To see everything combined together in one mini-project, run the last folder (32
 ## 🚀 Running the Code
 
 1. Navigate into the folder you're interested in:
+
    ```bash
    cd 286-react-components
    ```
-2. Install dependencies and start the server (if applicable):
+
+2. Install dependencies and start the server:
+
    ```bash
    npm install
    npm run dev
+   ```
+
+   OR (for modules not using JSX)
+
+   ```bash
+   npm build
+   npm start
    ```
 
 ---
@@ -89,4 +99,4 @@ This repository tracks my hands-on progress through the **React module** of Ange
 
 ## 🙌 Let's Connect
 
-If you'd like to collaborate or have feedback, feel free to reach out via [LinkedIn](https://www.linkedin.com/).
+If you'd like to collaborate or have feedback, feel free to reach out via [LinkedIn](www.linkedin.com/in/davidhu426).
