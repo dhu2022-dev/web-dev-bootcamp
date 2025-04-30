@@ -65,7 +65,7 @@ I've used this section to deepen my understanding of modern front-end developmen
 
 ---
 
-To see everything combined together in one mini-project, run the last folder (320) to see the fully functional and styled Keeper App!
+Don't know where to start? See everything combined together in one mini-project by running the last folder (320) to view my fully functional and styled Keeper App!
 
 ### 🖼️ Preview
 
