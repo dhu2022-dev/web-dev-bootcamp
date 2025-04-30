@@ -1,6 +1,6 @@
 # 🌐 HTML & CSS Lessons/Code
 
-This folder contains my completed work from the **HTML and CSS modules** of Dr. Angela Yu’s Web Development Bootcamp. The projects range from basic HTML elements to advanced CSS topics like Flexbox, Grid, and responsive design. 
+This folder contains my completed work from the **HTML and CSS modules** of Dr. Angela Yu’s Web Development Bootcamp. The projects range from basic HTML elements to advanced CSS topics like Flexbox, Grid, and responsive design.
 
 Each folder corresponds to a practice exercise or project that aligns with the video lectures from the course.
 
@@ -30,6 +30,10 @@ Each folder corresponds to a practice exercise or project that aligns with the v
 | `10.0 Display Grid` → `10.3 Mondrian Project` | CSS Grid layout concepts and creative composition |
 | `11.0 Bootstrap Intro` → `11.3 TinDog Project` | Using Bootstrap to speed up styling and create responsive websites |
 | `Capstone 1` | Capstone project for building a complete resume/portfolio site |
+
+---
+
+Not sure where to start? Check out my [Html Portfolio](../html-portfolio/) where I gather my favorite HTML projects in one stop for you to view!
 
 ---
 
