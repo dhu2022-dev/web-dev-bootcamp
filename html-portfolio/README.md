@@ -60,4 +60,4 @@ This folder aggregates my early HTML practice into a polished, centralized displ
 
 ## 🙌 Let’s Connect
 
-If you’re a recruiter or fellow dev interested in my growth journey, feel free to connect with me or view more of my work on GitHub or [LinkedIn](https://www.linkedin.com/).
+If you’re a recruiter or fellow dev interested in my growth journey, feel free to connect with me or view more of my work on GitHub or [LinkedIn](https://www.linkedin.com/davidhu426).
