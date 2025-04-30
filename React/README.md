@@ -1,4 +1,4 @@
-# ⚛️ React Practice Projects — Dr. Angela Yu's Web Development Bootcamp
+# ⚛️ React Lessons & Practice Code
 
 Welcome! This repository contains my completed React exercises from **Dr. Angela Yu's Web Development Bootcamp**. Each folder corresponds to a lesson module and includes a working code solution to the concept taught in that video.
 
@@ -63,6 +63,8 @@ I've used this section to deepen my understanding of modern front-end developmen
 
 > 🗂 All folders contain complete, working solutions—feel free to explore the code and run each project locally!
 
+To see everything combined together in one mini-project, run the last folder (320) to see the fully functional and styled Keeper App!
+
 ---
 
 ## 🚀 Running the Code
@@ -74,7 +76,7 @@ I've used this section to deepen my understanding of modern front-end developmen
 2. Install dependencies and start the server (if applicable):
    ```bash
    npm install
-   npm start
+   npm run dev
    ```
 
 ---
@@ -87,4 +89,4 @@ This repository tracks my hands-on progress through the **React module** of Ange
 
 ## 🙌 Let's Connect
 
-If you'd like to collaborate or have feedback, feel free to reach out via GitHub or [LinkedIn](https://www.linkedin.com/).
+If you'd like to collaborate or have feedback, feel free to reach out via [LinkedIn](https://www.linkedin.com/).
