@@ -6,7 +6,7 @@ I've used this section to deepen my understanding of modern front-end developmen
 
 ---
 
-## 🧠 Key Skills Practiced
+## 🧠 Skills Practiced
 
 - **JSX Syntax & Styling**
 - **Component Architecture**
@@ -63,7 +63,16 @@ I've used this section to deepen my understanding of modern front-end developmen
 
 > 🗂 All folders contain complete, working solutions—feel free to explore the code and run each project locally!
 
+---
+
 To see everything combined together in one mini-project, run the last folder (320) to see the fully functional and styled Keeper App!
+
+### 🖼️ Preview
+
+![Keeper App Screenshot Start](project_images/keeper-app1.png)
+![Keeper App Screenshot First Note Added](project_images/keeper-app2.png)
+![Keeper App Screenshot Adding Second Note](project_images/keeper-app3.png)
+![Keeper App Screenshot Multiple Notes Added](project_images/keeper-app4.png)
 
 ---
 
@@ -91,7 +100,15 @@ To see everything combined together in one mini-project, run the last folder (32
 
 ---
 
-## 📌 Note
+## 📌 Course Mapping
+
+This section includes material from:
+
+- **Section 36:** React.js
+
+---
+
+## 🎯 Purpose
 
 This repository tracks my hands-on progress through the **React module** of Angela Yu’s course. It serves as both a learning log and a demonstration of my growing React.js skill set. If you're a recruiter, mentor, or peer developer—thank you for checking out my work!
 
