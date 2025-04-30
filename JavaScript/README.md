@@ -49,6 +49,32 @@ Each file or project aligns with a specific lesson or challenge in the course an
 
 ---
 
+### 🎲 Dicee Challenge Preview
+
+A two-player dice game built using JavaScript conditionals, image manipulation, and DOM updates.
+To play the game, refresh the page! The page should display the person with the larger dice value as the winner.
+
+![Dicee Game Screenshot](project_images/dicee.png)
+
+---
+
+### 🥁 Drum Kit Preview
+
+A virtual drum set using keyboard events to play sounds and trigger button animations.
+Press the keys or the display directly to make different drum sounds!
+
+![Drum Kit Screenshot](project_images/drum-kit.png)
+
+---
+
+### 🧪 DOM Challenge Preview
+
+Practiced selecting elements, manipulating styles, and updating HTML content dynamically through Javascript.
+
+![DOM Challenge Screenshot](project_images/dom-challenge.png)
+
+---
+
 ## 📌 Course Mapping
 
 This folder covers material from:
@@ -64,7 +90,7 @@ This folder covers material from:
 ## 🚀 Running the Projects
 
 1. Open the folder of the project you're interested in.
-2. Open `index.html` in your browser.
+2. Open `index.html` (or html file in the folder) in your browser.
 3. View and edit `index.js` for the main JavaScript logic.
 4. Use the browser dev tools to interact and debug.
 
