@@ -52,6 +52,15 @@ html-portfolio/
 
 ---
 
+## 🖼️ Preview
+
+Here's a preview of the projects you can expect to see!
+![Portfolio Index Screenshot](project_images/simon-game.png)
+![Movie Ranking Screenshot](project_images/simon-game.png)
+![Birthday Invite Screenshot](project_images/simon-game.png)
+![Personal Profile Screenshot](project_images/simon-game.png)
+![Contact Page Screenshot](project_images/simon-game.png)
+
 ## 📌 Purpose
 
 This folder aggregates my early HTML practice into a polished, centralized display. It complements my broader work inside the `HTML_CSS` folder by providing a user-facing showcase of specific project outputs.
