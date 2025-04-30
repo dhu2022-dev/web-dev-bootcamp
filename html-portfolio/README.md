@@ -1,4 +1,4 @@
-# 🗂️ HTML Project Portfolio — Dr. Angela Yu's Web Development Bootcamp
+# 🗂️ HTML Project Portfolio
 
 This folder serves as a **personal HTML project portfolio**, showcasing beginner-level projects built during the early HTML & CSS sections of Dr. Angela Yu’s Web Development Bootcamp.
 
@@ -34,8 +34,8 @@ html-portfolio/
 │   └── movie-ranking.html
 ├── index.html                   # Main portfolio page with links to above
 ├── README.md                    # This file
-├── solution.html                # Reference or guided solution (optional)
-└── goal.png                     # Personal or visual goal artifact (optional)
+├── solution.html                # Dr. Angela's version
+└── goal.png                     # Idea of what it's supposed to look like
 ```
 
 ---
