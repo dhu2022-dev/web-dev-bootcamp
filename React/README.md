@@ -99,4 +99,4 @@ This repository tracks my hands-on progress through the **React module** of Ange
 
 ## 🙌 Let's Connect
 
-If you'd like to collaborate or have feedback, feel free to reach out via [LinkedIn](www.linkedin.com/in/davidhu426).
+If you'd like to collaborate on another project or have feedback for this one, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/davidhu426).
