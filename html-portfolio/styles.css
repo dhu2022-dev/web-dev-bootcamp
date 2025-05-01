@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 2rem;
+    background-color: #f8f8f8;
+}
+h1, h2 {
+    text-align: center;
+}
+.project {
+    margin-bottom: 2rem;
+    text-align: center;
+}
+.project img {
+    height: 200px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    margin-top: 0.5rem;
+}
+.nav-links {
+    text-align: center;
+    margin-top: 2rem;
+}
+.nav-links a {
+    margin: 0 1rem;
+    text-decoration: none;
+    color: #007bff;
+}
