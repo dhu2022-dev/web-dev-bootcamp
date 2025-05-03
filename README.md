@@ -11,7 +11,7 @@ Whether you're a recruiter, developer, or mentor — this repo is structured to 
 | Section           | Description                                                   |
 |------------------|---------------------------------------------------------------|
 | [`html-portfolio/`](./html-portfolio)      | 🎨 My visual HTML/CSS showcase with screenshots and live links         |
-| [`HTML_CSS/`](./HTML_CSS)                  | 🧱 Early practice projects in layout, typography, and design theory     |
+| [`HTML_CSS/`](./Html+CSS)                  | 🧱 Early practice projects in layout, typography, and design theory     |
 | [`JavaScript/`](./JavaScript)              | 📟 Core logic, control flow, DOM manipulation, and interactive games    |
 | [`jQuery/`](./jQuery)                      | ⚙️ Simon Game project and DOM interaction using jQuery                 |
 | [`React/`](./React)                        | ⚛️ Component-based front-end UI building with functional React         |
