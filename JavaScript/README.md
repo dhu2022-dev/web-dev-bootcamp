@@ -54,16 +54,16 @@ Each file or project aligns with a specific lesson or challenge in the course an
 A two-player dice game built using JavaScript conditionals, image manipulation, and DOM updates.
 To play the game, refresh the page! The page should display the person with the larger dice value as the winner.
 
-![Dicee Game Screenshot](project_images/dicee.png)
+![Dicee Game Demo](project_images/dicee.gif)
 
 ---
 
 ### 🥁 Drum Kit Preview
 
 A virtual drum set using keyboard events to play sounds and trigger button animations.
-Press the keys or the display directly to make different drum sounds!
+Press the keys or the display directly to make different drum sounds. Volume up!
 
-![Drum Kit Screenshot](project_images/drum-kit.png)
+![Drum Kit Screenshot](project_images/drum-kit.gif)
 
 ---
 
