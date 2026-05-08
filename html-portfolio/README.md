@@ -1,107 +1,72 @@
-# 🗂️ HTML Project Portfolio
+# HTML/CSS portfolio hub
 
-This folder serves as a **personal HTML/CSS project portfolio**, showcasing beginner-level through intermediate projects completed as part of Dr. Angela Yu’s Web Development Bootcamp.
+[`index.html`](./index.html) is a static showcase of my favorite lesson homeworks for the HTML + CSS units of **Dr. Angela Yu’s** *[The Complete Full-Stack Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)*. Each card links into the lesson folder under [`Html+CSS/`](../Html+CSS/) (source of truth for markup and styles); this directory holds the landing page, screenshots, and a few course reference files. For the rest of the bootcamp archive, see the [repo overview](../README.md).
 
-All pages are fully static and built with vanilla HTML5 and CSS3. This portfolio serves as a curated front-end display of foundational projects demonstrating my progression in layout, styling, and responsive design.
-
----
-
-## 🌟 Highlights
-
-- ✅ Responsive HTML portfolio powered by semantic HTML and modular CSS
-- ✅ Interactive previews for 9 unique projects built during course progression
-- ✅ Hosted homepage (`index.html`) acts as a user-facing showcase
-- ✅ Screenshots for selected key projects included for recruiter quick view
-- ✅ Features layout systems (Flexbox, Grid), positioning, and Bootstrap
-
-> 🔁 This portfolio was previously hosted in a dedicated repo [`html-portfolio`](https://github.com/dhu2022-dev/html-portfolio). That repo is now archived, but commit history has been preserved.
+**Contents:** [What this folder is](#what-this-folder-is) · [Layout](#layout) · [Projects](#projects) · [Sample previews](#sample-previews)
 
 ---
 
-## 🧾 File Structure Overview
+## What this folder is
+
+- **Hub page** — [`index.html`](./index.html) + [`styles.css`](./styles.css): thumbnails and relative links to my nine favorite exercises in `Html+CSS/`.
+- **Screenshots** — [`screenshots/`](./screenshots): The snapshots of what each individual project looks like. The hub collates these for the preview.
+- **Reference HTML** — [`public/`](./public): instructor-style snippets for early multi-page drills (movie ranking, birthday invite, about, contact). Root-level [`about-david.html`](./about-david.html) and [`contact-david.html`](./contact-david.html) are the personal variants from that thread. I build upon these given files to complete the assignments.
+- **Lesson artifacts** — [`solution.html`](./solution.html) and [`goal.png`](./goal.png) is the instructor example of what she expects the portfolio to look like, I model off of that; [`assets/images/`](./assets/images) carries a small set of bundled reference images used in her solutions.
+
+This tree used to live in the standalone repo [`html-portfolio`](https://github.com/dhu2022-dev/html-portfolio) (now archived); history was folded into this monorepo.
+
+---
+
+## Layout
 
 ```
-html-portfolio/
-├── assets/
-│   └── images/                  # Dr. Angela's screenshots
-│       ├── movie-ranking.png
-│       ├── birthday-invite.png
-│       └── ...
-├── public/                      # Dr. Angela's example HTML projects for her solution
-│   ├── about.html
-│   ├── birthday-invite.html
-│   ├── contact.html
-│   └── movie-ranking.html
-├── screenshots/                 # My html project screenshots
-|   ├── david-birthday-invite.png
-|   ├── david-movie-rankings.png
-|   └── ...
-├── index.html                   # Main portfolio page with links to my projects in the HTML+CSS folder
-├── styles.css                   # Styling for the main portfolio page
-├── README.md                    # This file
-├── solution.html                # Dr. Angela's version
-└── goal.png                     # Idea of what it's supposed to look like
+Html-Portfolio/
+├── assets/images/          # bundled reference screenshots (from the course)
+├── public/                 # starter HTML (movie, invite, about, contact)
+├── screenshots/            # thumbnails from my completed projects used on index.html
+├── about-david.html
+├── contact-david.html
+├── goal.png
+├── index.html              # LOOK HERE! The actual portfolio hub
+├── solution.html           # instructor-style portfolio solution
+├── styles.css
+└── README.md
 ```
 
 ---
 
-## 📁 Projects Overview
+## Projects
 
-| Project                 | Description                                           | Skills Demonstrated                              |
-|-------------------------|-------------------------------------------------------|--------------------------------------------------|
-| Movie Ranking           | List of top movies using semantic tags               | Lists, headings, structure                       |
-| Birthday Invite         | Digital party invitation w/ image and item list      | Anchors, images, visual hierarchy                |
-| Color Vocabulary        | Visual learning cards using background colors        | Inline styles, color codes, typography           |
-| Motivational Meme       | Meme creation with styled text and images            | Text formatting, layout basics                   |
-| CSS Flag                | Building a flag using CSS box model + positioning    | `div` layout, relative/absolute positioning       |
-| Web Design Agency       | Mini landing page mockup                             | Sections, class-based CSS, basic responsiveness  |
-| Flexbox Pricing Table   | Tiered product pricing using Flexbox layout          | Flexbox, card structure, spacing/alignment       |
-| Mondrian Painting       | Artistic grid layout using pure CSS Grid             | Grid layout, gaps, color blocking                |
-| TinDog Project          | Full landing page styled with Bootstrap              | Bootstrap grid system, responsive components     |
+Links point at the live exercise folders (spaces URL-encoded for portability).
 
----
-
-## 🖼️ Project Previews
-
-### 💳 Flexbox Pricing Table
-
-A clean, responsive 3-tier pricing layout built using modern Flexbox principles.
-
-![Flexbox Pricing Table Screenshot](screenshots/david-flexbox-pricing-table.png)
+| Project | Focus | Location |
+|--------|--------|----------|
+| Movie ranking | Structure, lists, headings | [`2.4 Movie Ranking Project`](../Html+CSS/2.4%20Movie%20Ranking%20Project/) |
+| Birthday invite | Images, links, hierarchy | [`3.4 Birthday Invite Project`](../Html+CSS/3.4%20Birthday%20Invite%20Project/) |
+| Color vocabulary | Color + typography | [`5.4 Color Vocab Project`](../Html+CSS/5.4%20Color%20Vocab%20Project/) |
+| Motivational meme | Box model, imagery | [`6.4 Motivation Meme Project`](../Html+CSS/6.4%20Motivation%20Meme%20Project/) |
+| CSS flag | Positioning | [`7.3 CSS Flag Project`](../Html+CSS/7.3%20CSS%20Flag%20Project/) |
+| Web design agency | Sections, class-based layout | [`8.4 Web Design Agency Project`](../Html+CSS/8.4%20Web%20Design%20Agency%20Project/) |
+| Flexbox pricing | Flex layout, cards | [`9.4 Flexbox Pricing Table Project`](../Html+CSS/9.4%20Flexbox%20Pricing%20Table%20Project/) |
+| Mondrian | CSS Grid | [`10.3 Mondrian Project`](../Html+CSS/10.3%20Mondrian%20Project/) |
+| TinDog | Bootstrap, responsive sections | [`11.3 TinDog Project`](../Html+CSS/11.3%20TinDog%20Project/) |
 
 ---
 
-### 🎨 Mondrian Painting
+## Sample previews
 
-An artistic composition recreated using only HTML and CSS Grid layout — fully pixel-perfect.
+### Flexbox pricing
 
-![Mondrian Painting Screenshot](screenshots/david-mondrian-painting.png)
+![Flexbox pricing table](screenshots/david-flexbox-pricing-table.png)
 
----
+### Mondrian (CSS Grid)
 
-### 🐶 TinDog Landing Page
+![Mondrian painting](screenshots/david-mondrian-painting.png)
 
-A mobile-responsive product site clone styled with Bootstrap. Sections include:
+### TinDog (Bootstrap)
 
-- A hero banner
-- Feature cards
-- Testimonials
-- Footer
+![TinDog hero](screenshots/david-tindog-banner.png)
 
-![TinDog Banner](screenshots/david-tindog-banner.png)
-![TinDog Body](screenshots/david-tindog-body.png)
-![TinDog Footer](screenshots/david-tindog-footer.png)
+![TinDog body](screenshots/david-tindog-body.png)
 
----
-
-## 📌 Purpose
-
-This project showcases my progression through HTML and CSS while creating a single, user-friendly interface to demonstrate finished output. Each file links back to its original build, and the layout reflects real-world web structure principles.
-
-It complements the rest of my `HTML_CSS` practice folder by turning isolated lessons into a polished showcase.
-
----
-
-## 🙌 Let’s Connect
-
-If you’re a recruiter, collaborator, or fellow developer, feel free to explore more of my work and connect with me on [GitHub](https://github.com/dhu2022-dev) or [LinkedIn](https://www.linkedin.com/in/davidhu426).
+![TinDog footer](screenshots/david-tindog-footer.png)
