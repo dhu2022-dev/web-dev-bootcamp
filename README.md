@@ -1,6 +1,12 @@
 # Web Development Bootcamp Portfolio
 
-Hi! I'm David Hu. This repo is my working archive from **Dr. Angela Yu’s [*The Complete Web Development Bootcamp*](https://www.udemy.com/share/1013gG3@Erd1Db3erwZ4RgornuXTR9x5cyoTWxxPRZpUmiUk_i8faDdRv2trfIecPHOrRxA2/)** on Udemy. It's a project-based path from HTML, CSS, JavaScript, jQuery, and React through tooling, Node/Express and databases, deployment, and introductory Web3.
+Hi! I'm David Hu. This repo is my working archive from **Dr. Angela Yu**’s **[The Complete Full-Stack Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)** on Udemy. It’s a project-based path from HTML, CSS, JavaScript, jQuery, and React through tooling, Node/Express and databases, deployment, and introductory Web3.
+
+*The image of the course below in case Udemy has its less-than-infrequent skill issues.*
+
+<p align="center">
+  <img src="./assets/udemy-angela-yu-full-stack-bootcamp.jpg" alt="Udemy listing: The Complete Full-Stack Web Development Bootcamp by Dr. Angela Yu" width="320">
+</p>
 
 This was my first entry point into computer science before formal CS or industry; when I naively thought software engineering was just “coding” (Things have really changed! lol).
 
