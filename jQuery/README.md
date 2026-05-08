@@ -4,7 +4,7 @@
 
 **This folder** is my work from **Dr. Angela Yu’s** *[The Complete Full-Stack Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)*. **Section 19** walks the API on a small interactive page (**[`index.html`](./index.html)**, [`index.js`](./index.js), [`styles.css`](./styles.css))—selectors, manipulation, events, and motion. **Section 20** turns the same ideas into the **Simon** memory game—the course layers the behavior across the lessons, and [`Simon Game/`](./Simon%20Game/) is the playable result. [Repo overview](../README.md).
 
-**Contents:** [Competencies](#competencies) · [What’s here](#whats-here) · [Simon game](#simon-game) · [Run locally](#run-locally) · [Related](#related)
+**Contents:** [Competencies](#competencies) · [What’s here](#whats-here) · [Simon game](#simon-game) · [Run locally](#run-locally) · [Navigate this repo](#navigate-this-repo)
 
 ---
 
@@ -65,5 +65,12 @@ JQuery/
 ## Run locally
 
 Static HTML: open **`index.html`** or **`Simon Game/index.html`** in a browser (**volume up**). No build tools.
+
+---
+
+## Navigate this repo
+
+**← Previous:** [JavaScript (sections 14–18)](../JavaScript/)  
+**→ Next:** [React (section 36)](../React/)
 
 ---

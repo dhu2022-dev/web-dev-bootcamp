@@ -2,7 +2,7 @@
 
 [`index.html`](./index.html) is a static showcase of my favorite lesson homeworks for the HTML + CSS units of **Dr. Angela Yu’s** *[The Complete Full-Stack Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)*. Open it with your browser to see! Each card links into the original lesson folder under [`Html+CSS/`](../Html+CSS/) which contains ALL of the homeworks, not just the favorites I've curated for you here; this directory is for the landing page of the portfolio. For the rest of the bootcamp archive, see the [repo overview](../README.md).
 
-**Contents:** [What this folder is](#what-this-folder-is) · [Layout](#layout) · [Projects](#projects) · [Sample previews](#sample-previews)
+**Contents:** [What this folder is](#what-this-folder-is) · [Layout](#layout) · [Projects](#projects) · [Sample previews](#sample-previews) · [Navigate this repo](#navigate-this-repo)
 
 ---
 
@@ -70,5 +70,12 @@ Links point at the live exercise folders (spaces URL-encoded for portability).
 ![TinDog body](screenshots/david-tindog-body.png)
 
 ![TinDog footer](screenshots/david-tindog-footer.png)
+
+---
+
+## Navigate this repo
+
+**← Previous:** [HTML & CSS — full lesson tree](../Html+CSS/)  
+**→ Next:** [JavaScript (sections 14–18)](../JavaScript/)
 
 ---

@@ -2,7 +2,7 @@
 
 Vanilla **JavaScript (ES6+)** drills and small browser apps from **Dr. Angela Yu’s** *[The Complete Full-Stack Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)*. Root-level `*.js` files are **language-only** exercises; subfolders are **DOM + events** projects you open in a browser. Broader context: [repo overview](../README.md).
 
-**Contents:** [Competencies](#competencies) · [Course map](#course-map) · [Root scripts (14–15)](#root-scripts-1415) · [Browser projects (16–18)](#browser-projects-1618) · [Previews](#previews) · [Run locally](#run-locally) · [Related](#related)
+**Contents:** [Competencies](#competencies) · [Course map](#course-map) · [Root scripts (14–15)](#root-scripts-1415) · [Browser projects (16–18)](#browser-projects-1618) · [Previews](#previews) · [Run locally](#run-locally) · [Navigate this repo](#navigate-this-repo)
 
 ---
 
@@ -83,6 +83,13 @@ https://github.com/user-attachments/assets/64028791-2eac-4d5e-9a3e-e22ba977753a
 **Folders:** open `index.html` in each project directory; logic is typically in `index.js`. DevTools are enough for debugging.
 
 **Root `*.js`:** execute with `node YourFile.js` if the snippet has no browser-only APIs, or paste into the console / a minimal HTML shell.
+
+---
+
+## Navigate this repo
+
+**← Previous:** [HTML/CSS portfolio hub](../Html-Portfolio/)  
+**→ Next:** [jQuery (sections 19–20)](../JQuery/)
 
 ---
 
