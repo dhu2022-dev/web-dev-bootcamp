@@ -1,6 +1,6 @@
 # HTML/CSS portfolio hub
 
-[`index.html`](./index.html) is a static showcase of my favorite lesson homeworks for the HTML + CSS units of **Dr. Angela Yu’s** *[The Complete Full-Stack Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)*. Open it with your browser to see! Each card links into the original lesson folder under [`Html+CSS/`](../Html+CSS/) which contains ALL of the homeworks, not just the favorites I've curated for you here; this directory is for the landing page of the portfolio. For the rest of the bootcamp archive, see the [repo overview](../README.md).
+[`index.html`](./index.html) is a static showcase of my favorite lesson homeworks for the HTML + CSS units of **Dr. Angela Yu’s** *[The Complete Full-Stack Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)*. Open it with your browser to see! Each card links into the original lesson folder under [`Html+CSS/`](../Html%2BCSS/) which contains ALL of the homeworks, not just the favorites I've curated for you here; this directory is for the landing page of the portfolio. For the rest of the bootcamp archive, see the [repo overview](../README.md).
 
 **Contents:** [What this folder is](#what-this-folder-is) · [Layout](#layout) · [Projects](#projects) · [Sample previews](#sample-previews) · [Navigate this repo](#navigate-this-repo)
 
@@ -20,7 +20,7 @@ This tree used to live in the standalone repo [`html-portfolio`](https://github.
 ## Layout
 
 ```
-Html-Portfolio/
+html-portfolio/
 ├── assets/images/          # bundled reference screenshots (from the course)
 ├── public/                 # starter HTML (movie, invite, about, contact)
 ├── screenshots/            # thumbnails from my completed projects used on index.html
@@ -41,15 +41,15 @@ Links point at the live exercise folders (spaces URL-encoded for portability).
 
 | Project | Focus | Location |
 |--------|--------|----------|
-| Movie ranking | Structure, lists, headings | [`2.4 Movie Ranking Project`](../Html+CSS/2.4%20Movie%20Ranking%20Project/) |
-| Birthday invite | Images, links, hierarchy | [`3.4 Birthday Invite Project`](../Html+CSS/3.4%20Birthday%20Invite%20Project/) |
-| Color vocabulary | Color + typography | [`5.4 Color Vocab Project`](../Html+CSS/5.4%20Color%20Vocab%20Project/) |
-| Motivational meme | Box model, imagery | [`6.4 Motivation Meme Project`](../Html+CSS/6.4%20Motivation%20Meme%20Project/) |
-| CSS flag | Positioning | [`7.3 CSS Flag Project`](../Html+CSS/7.3%20CSS%20Flag%20Project/) |
-| Web design agency | Sections, class-based layout | [`8.4 Web Design Agency Project`](../Html+CSS/8.4%20Web%20Design%20Agency%20Project/) |
-| Flexbox pricing | Flex layout, cards | [`9.4 Flexbox Pricing Table Project`](../Html+CSS/9.4%20Flexbox%20Pricing%20Table%20Project/) |
-| Mondrian | CSS Grid | [`10.3 Mondrian Project`](../Html+CSS/10.3%20Mondrian%20Project/) |
-| TinDog | Bootstrap, responsive sections | [`11.3 TinDog Project`](../Html+CSS/11.3%20TinDog%20Project/) |
+| Movie ranking | Structure, lists, headings | [`2.4 Movie Ranking Project`](../Html%2BCSS/2.4%20Movie%20Ranking%20Project/) |
+| Birthday invite | Images, links, hierarchy | [`3.4 Birthday Invite Project`](../Html%2BCSS/3.4%20Birthday%20Invite%20Project/) |
+| Color vocabulary | Color + typography | [`5.4 Color Vocab Project`](../Html%2BCSS/5.4%20Color%20Vocab%20Project/) |
+| Motivational meme | Box model, imagery | [`6.4 Motivation Meme Project`](../Html%2BCSS/6.4%20Motivation%20Meme%20Project/) |
+| CSS flag | Positioning | [`7.3 CSS Flag Project`](../Html%2BCSS/7.3%20CSS%20Flag%20Project/) |
+| Web design agency | Sections, class-based layout | [`8.4 Web Design Agency Project`](../Html%2BCSS/8.4%20Web%20Design%20Agency%20Project/) |
+| Flexbox pricing | Flex layout, cards | [`9.4 Flexbox Pricing Table Project`](../Html%2BCSS/9.4%20Flexbox%20Pricing%20Table%20Project/) |
+| Mondrian | CSS Grid | [`10.3 Mondrian Project`](../Html%2BCSS/10.3%20Mondrian%20Project/) |
+| TinDog | Bootstrap, responsive sections | [`11.3 TinDog Project`](../Html%2BCSS/11.3%20TinDog%20Project/) |
 
 ---
 
@@ -75,7 +75,7 @@ Links point at the live exercise folders (spaces URL-encoded for portability).
 
 ## Navigate this repo
 
-**← Previous:** [HTML & CSS — full lesson tree](../Html+CSS/)  
+**← Previous:** [HTML & CSS — full lesson tree](../Html%2BCSS/)  
 **→ Next:** [JavaScript (sections 14–18)](../JavaScript/)
 
 ---

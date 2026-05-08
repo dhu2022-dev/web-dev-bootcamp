@@ -47,7 +47,7 @@ Memory game after the handheld Simon toy: **the game flashes a lengthening seque
 **Layout**
 
 ```
-JQuery/
+jQuery/
 ├── index.html              # Section 19 sandbox
 ├── index.js
 ├── styles.css

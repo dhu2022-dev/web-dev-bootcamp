@@ -1,6 +1,6 @@
 # HTML & CSS (sections 2–11 + Capstone 1)
 
-Hands-on exercises and projects from **Dr. Angela Yu’s** *[The Complete Full-Stack Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)*. This folder is the **full lesson tree** (every numbered exercise); for a **single-page gallery** with screenshots of selected highlights, see [`Html-Portfolio/`](../Html-Portfolio/). Broader bootcamp context: [repo overview](../README.md).
+Hands-on exercises and projects from **Dr. Angela Yu’s** *[The Complete Full-Stack Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)*. This folder is the **full lesson tree** (every numbered exercise); for a **single-page gallery** with screenshots of selected highlights, see [`html-portfolio/`](../html-portfolio/). Broader bootcamp context: [repo overview](../README.md).
 
 **Contents:** [Competencies](#competencies) · [How folders map to the course](#how-folders-map-to-the-course) · [Run locally](#run-locally) · [Navigate this repo](#navigate-this-repo)
 
@@ -55,6 +55,6 @@ No install, bundler, or server required.
 ## Navigate this repo
 
 **← Previous:** [Bootcamp overview (root README)](../README.md)  
-**→ Next:** [HTML/CSS portfolio hub](../Html-Portfolio/)
+**→ Next:** [HTML/CSS portfolio hub](../html-portfolio/)
 
 ---

@@ -88,8 +88,8 @@ https://github.com/user-attachments/assets/64028791-2eac-4d5e-9a3e-e22ba977753a
 
 ## Navigate this repo
 
-**← Previous:** [HTML/CSS portfolio hub](../Html-Portfolio/)  
-**→ Next:** [jQuery (sections 19–20)](../JQuery/)
+**← Previous:** [HTML/CSS portfolio hub](../html-portfolio/)  
+**→ Next:** [jQuery (sections 19–20)](../jQuery/)
 
 ---
 
