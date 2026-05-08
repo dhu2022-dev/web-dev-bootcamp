@@ -1,6 +1,6 @@
 # HTML/CSS portfolio hub
 
-[`index.html`](./index.html) is a static showcase of my favorite lesson homeworks for the HTML + CSS units of **Dr. Angela Yu’s** *[The Complete Full-Stack Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)*. Each card links into the lesson folder under [`Html+CSS/`](../Html+CSS/) (source of truth for markup and styles); this directory holds the landing page, screenshots, and a few course reference files. For the rest of the bootcamp archive, see the [repo overview](../README.md).
+[`index.html`](./index.html) is a static showcase of my favorite lesson homeworks for the HTML + CSS units of **Dr. Angela Yu’s** *[The Complete Full-Stack Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)*. Open it with your browser to see! Each card links into the original lesson folder under [`Html+CSS/`](../Html+CSS/) which contains ALL of the homeworks, not just the favorites I've curated for you here; this directory is for the landing page of the portfolio. For the rest of the bootcamp archive, see the [repo overview](../README.md).
 
 **Contents:** [What this folder is](#what-this-folder-is) · [Layout](#layout) · [Projects](#projects) · [Sample previews](#sample-previews)
 
@@ -10,7 +10,7 @@
 
 - **Hub page** — [`index.html`](./index.html) + [`styles.css`](./styles.css): thumbnails and relative links to my nine favorite exercises in `Html+CSS/`.
 - **Screenshots** — [`screenshots/`](./screenshots): The snapshots of what each individual project looks like. The hub collates these for the preview.
-- **Reference HTML** — [`public/`](./public): instructor-style snippets for early multi-page drills (movie ranking, birthday invite, about, contact). Root-level [`about-david.html`](./about-david.html) and [`contact-david.html`](./contact-david.html) are the personal variants from that thread. I build upon these given files to complete the assignments.
+- **Reference HTML** — [`public/`](./public): instructor-style snippets for early multi-page drills (movie ranking, birthday invite, about, contact). Root-level [`about-david.html`](./about-david.html) and [`contact-david.html`](./contact-david.html) are also personal variations of her "about me" and "contact me" html page lessons. I build upon these given files to complete the assignments.
 - **Lesson artifacts** — [`solution.html`](./solution.html) and [`goal.png`](./goal.png) is the instructor example of what she expects the portfolio to look like, I model off of that; [`assets/images/`](./assets/images) carries a small set of bundled reference images used in her solutions.
 
 This tree used to live in the standalone repo [`html-portfolio`](https://github.com/dhu2022-dev/html-portfolio) (now archived); history was folded into this monorepo.
@@ -70,3 +70,5 @@ Links point at the live exercise folders (spaces URL-encoded for portability).
 ![TinDog body](screenshots/david-tindog-body.png)
 
 ![TinDog footer](screenshots/david-tindog-footer.png)
+
+---
