@@ -1,88 +1,69 @@
-# ⚙️ jQuery Practice & Simon Game
+# jQuery (sections 19–20)
 
-This folder contains my jQuery practice and the capstone **Simon Game** project built during Sections 19–20 of Dr. Angela Yu’s Web Development Bootcamp.
+[**jQuery**](https://jquery.com/) is a JavaScript library that wraps the DOM behind a **single, consistent API**: CSS-style **selectors**, shorthand for **events** and **effects**, and fewer browser quirks than raw DOM code used to have. It was the default way to build interactive pages for a long time (and still turns up in legacy stacks), so putting it in the bootcamp **bridges vanilla JavaScript and “installing a library”**—the same muscle you use later with npm packages and bigger frameworks.
 
-Through these lessons, I learned how to integrate jQuery into static web projects, select and manipulate DOM elements, animate components, and handle events — culminating in the fully interactive Simon Game.
+**This folder** is my work from **Dr. Angela Yu’s** *[The Complete Full-Stack Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)*. **Section 19** walks the API on a small interactive page (**[`index.html`](./index.html)**, [`index.js`](./index.js), [`styles.css`](./styles.css))—selectors, manipulation, events, and motion. **Section 20** turns the same ideas into the **Simon** memory game—the course layers the behavior across the lessons, and [`Simon Game/`](./Simon%20Game/) is the playable result. [Repo overview](../README.md).
 
----
-
-## 🧠 Skills Practiced
-
-- jQuery syntax and CDN usage
-- DOM element selection with jQuery
-- Text, style, and attribute manipulation
-- Event listeners (`.click()`, `.keypress()`)
-- Adding/removing elements dynamically
-- Website animations with `.fadeIn()`, `.fadeOut()`, `.animate()`
-- Game logic sequencing with arrays and user input
+**Contents:** [Competencies](#competencies) · [What’s here](#whats-here) · [Simon game](#simon-game) · [Run locally](#run-locally) · [Related](#related)
 
 ---
 
-For the initial learning index.html (not the Simon one) it's supposed to not look very aesthetic. But play around with the buttons and textbox and see what happens! That's the fun part and where my jquery learning is applied.
+## Competencies
+
+| Area | What’s in here |
+|------|----------------|
+| **jQuery setup** | CDN include, **`$(document).ready`**, chaining vs vanilla `querySelector` |
+| **DOM** | Selecting, **`text`/`html`/`attr`**, **`addClass`** / **`removeClass`** |
+| **Events** | **`click`**, **`keydown`** on inputs and **`document`**, **`mouseover`**, **`.on`** |
+| **Effects** | **`toggle`**, **`slideUp` / `slideDown`**, **`animate`** (sandbox) |
+| **Game design** | Sequences stored in arrays, matching user input vs pattern, leveling, **`setTimeout`**-style pacing, audio feedback |
 
 ---
 
-## 🧩 Project Highlight: The Simon Game
+## What’s here
 
-### 🎮 Description
+Start with the **Section 19 page** to see jQuery in isolation; open **Simon** when you want the **Section 20 capstone**.
 
-A memory game inspired by the classic Simon electronic game. A random pattern of button colors is played, and the user must repeat the sequence by clicking the buttons in order. Open it by opening the index.html (under the Simon Game folder!) in your browser.
-
-### 🔢 How to Play
-
-1. Press any key to begin the game.
-2. Watch the sequence of colors and sounds played by the computer.
-3. Repeat the sequence by clicking the corresponding colored buttons.
-4. The sequence gets longer each round. One mistake = game over!
-5. Press any key again to restart.
-
-### 🖼️ Preview
-
-![Simon Game Screenshot](project_images/simon-game.png)
+| Artifact | Role |
+|---------|------|
+| [`index.html`](./index.html), [`index.js`](./index.js), [`styles.css`](./styles.css) | **Section 19** playground — deliberately rough UI; use buttons and the text field to exercise selectors, manipulation, listeners, and basic motion. |
+| [`Simon Game/`](./Simon%20Game/) | **Section 20 capstone** — playable Simon with **`game.js`**, **`sounds/`**, **`styles.css`**, **`index.html`**. |
 
 ---
 
-## 📁 File Structure
+## Simon game
+
+Memory game after the handheld Simon toy: **the game flashes a lengthening sequence** of quadrants (**color + tone**); you **replay it with clicks**. One wrong tap ends the round; progression adds another step until a mistake.
+
+**Play:** **[`Simon Game/index.html`](./Simon%20Game/index.html)**
+
+1. Press **any key** to start.
+2. Watch the pattern; **repeat** by clicking matching buttons.
+3. Each level **extends** the sequence once you complete it correctly.
+4. Wrong move → lose sound / game over → **any key** to retry.
+
+
+
+**Layout**
 
 ```
-jQuery/
+JQuery/
+├── index.html              # Section 19 sandbox
+├── index.js
+├── styles.css
+├── project_images/
+│   └── simon-game.png
 └── Simon Game/
-    ├── sounds/             # Game audio files
-    │   ├── blue.mp3
-    │   ├── green.mp3
-    │   ├── red.mp3
-    │   ├── yellow.mp3
-    │   └── wrong.mp3
-    ├── game.js             # Core logic
-    ├── index.html          # Game HTML
-    ├── styles.css          # Styling
+    ├── game.js             # Logic + sequencing + input
+    ├── index.html
+    ├── styles.css
+    └── sounds/             # quadrant + wrong-tone mp3
 ```
 
 ---
 
-## 📌 Course Mapping
+## Run locally
 
-This section includes material from:
-
-- **Section 19:** Intro to jQuery (selectors, events, animation)
-- **Section 20:** Boss Level 2 — The Simon Game Project
+Static HTML: open **`index.html`** or **`Simon Game/index.html`** in a browser (**volume up**). No build tools.
 
 ---
-
-## 🚀 Running the Game
-
-1. Open `index.html` in your browser.
-2. Open the browser console to view any game logs.
-3. Play using your keyboard and mouse.
-
----
-
-## 🎯 Purpose
-
-This section demonstrates my ability to apply jQuery in a real-world game setting, showcasing not just interactivity, but logic design, sequence memory, and dynamic feedback.
-
----
-
-## 🙌 Let’s Connect
-
-Feel free to reach out or collaborate on interactive front-end projects. You can find me on GitHub or [LinkedIn](https://www.linkedin.com/davidhu426).
