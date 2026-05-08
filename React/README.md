@@ -1,119 +1,78 @@
-# ⚛️ React Lessons & Practice Code
+# React (section 36)
 
-Welcome! This repository contains my completed React exercises from **Dr. Angela Yu's Web Development Bootcamp**. Each folder corresponds to a lesson module and includes a working code solution to the concept taught in that video.
+**[React](https://react.dev/)** (+ **Vite**) lesson apps from **Dr. Angela Yu’s** *[The Complete Full-Stack Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)* (Udemy **section 36**). Each numbered folder is its own runnable mini-app (**React 17**, **JSX**, **functional components**, **`useState`**). Broader archive: [repo overview](../README.md).
 
-I've used this section to deepen my understanding of modern front-end development with **React**, practicing everything from JSX and props to component trees and state management.
-
----
-
-## 🧠 Skills Practiced
-
-- **JSX Syntax & Styling**
-- **Component Architecture**
-- **ES6+ JavaScript in React (arrow functions, spread operator, destructuring)**
-- **React Props & State**
-- **Hooks: `useState`**
-- **Conditional Rendering**
-- **Event Handling & Forms**
-- **Managing Component Trees**
-- **Intro to Functional vs Class Components**
+**Contents:** [Competencies](#competencies) · [Keeper notes (capstone)](#keeper-notes-capstone) · [Lesson bands](#lesson-bands) · [Run locally](#run-locally) · [Navigate this repo](#navigate-this-repo)
 
 ---
 
-## 📁 Folder Guide
+## Competencies
 
-| Folder Name | Concept Practiced |
-|-------------|-------------------|
-| `280-jsx-code-challenge` | JSX basics and syntax |
-| `281-javascript-expressions-in-jsx` | Embedding JS in JSX |
-| `282-javascript-expressions-in-jsx-practice` | Hands-on practice |
-| `283-jsx-attributes-and-styling` | HTML attributes, inline styles |
-| `284-inline-styling-in-jsx` | JS-style objects for CSS |
-| `285-react-styling-practice` | Practical styling techniques |
-| `286-react-components` | Creating components |
-| `287-react-components-practice` | Component structuring |
-| `288-es6-import-export-and-modules` | Module system in React |
-| `289-es6-import-export-practice` | Practice with modular code |
-| `293-keeper-app-part-1-challenge` | Start of full-featured Keeper App |
-| `295-react-props` | Passing data with props |
-| `296-react-props-practice` | Props deep dive |
-| `297-react-devtools` | Debugging React apps |
-| `298-mapping-components` | Mapping arrays to components |
-| `299-mapping-components-practice` | Practical mapping |
-| `300-map-filter-reduce` | ES6 array methods |
-| `301-es6-arrow-functions` | Writing concise functions |
-| `302-keeper-app-part-2-starting` | Adding list & delete features |
-| `303-conditional-rendering` | Dynamic UIs |
-| `304-conditional-rendering-practice` | Practice rendering logic |
-| `305-introduction-to-state-completed` | Managing internal component state |
-| `306-useState-hook` | Using `useState` effectively |
-| `307-useState-hook-practice` | More `useState` scenarios |
-| `308-es6-destructuring` | Cleaner variable extraction |
-| `310-event-handling-in-react` | DOM event responses |
-| `311-react-forms` | Handling user input |
-| `312-class-components-vs-hooks` | Functional vs class comparison |
-| `313-changing-complex-state` | Nested state updates |
-| `314-changing-complex-state-practice` | Practice complex state |
-| `315-es6-spread-operator` | Cloning and merging state |
-| `316-es6-spread-operator-practice` | Spread operator in React |
-| `317-managing-a-component-tree` | Passing data/functions across components |
-| `318-managing-a-component-tree-practice` | Component tree patterns |
-| `319-keeper-app-part-3-starting` | Building final Keeper App features |
-| `320-styling-the-keeper-app-starting` | Applying custom CSS/styling to app |
-
-> 🗂 All folders contain complete, working solutions—feel free to explore the code and run each project locally!
+| Area | What’s in here |
+| --- | --- |
+| **JSX** | Elements, embedding expressions, attributes, camelCase props, inline style objects |
+| **Components & modules** | Splitting UI, **`import`** / **`export`**, reusable pieces |
+| **Data flow** | **Props**, mapping lists to components, lifting state, component trees |
+| **State & UX** | **`useState`**, conditional rendering, events, controlled **forms**, nested state updates |
+| **Modern JS** | Arrow functions, **destructuring**, **spread** for immutable updates |
+| **Ecosystem** | **Vite** dev server, **`npm run dev`**, peek at **React DevTools** |
 
 ---
 
-Don't know where to start? See everything combined together in one mini-project by running the last folder (320) to view my fully functional and styled Keeper App!
+## Keeper notes (capstone)
 
-### 🖼️ Preview
+Google Keep–style notes app threaded across **four** checkpoints—each folder builds on the last:
 
-![Keeper App Screenshot Start](project_images/keeper-app1.png)
-![Keeper App Screenshot First Note Added](project_images/keeper-app2.png)
-![Keeper App Screenshot Adding Second Note](project_images/keeper-app3.png)
-![Keeper App Screenshot Multiple Notes Added](project_images/keeper-app4.png)
+[**`293-keeper-app-part-1-challenge`**](./293-keeper-app-part-1-challenge) → [**`302-keeper-app-part-2-starting`**](./302-keeper-app-part-2-starting) → [**`319-keeper-app-part-3-starting`**](./319-keeper-app-part-3-starting) → [**`320-styling-the-keeper-app-starting`**](./320-styling-the-keeper-app-starting)
 
----
+Screenshots (**`320`** flow):
 
-## 🚀 Running the Code
+![Keeper — start](project_images/keeper-app1.png)
 
-1. Navigate into the folder you're interested in:
+![Keeper — first note](project_images/keeper-app2.png)
 
-   ```bash
-   cd 286-react-components
-   ```
+![Keeper — second note](project_images/keeper-app3.png)
 
-2. Install dependencies and start the server:
-
-   ```bash
-   npm install
-   npm run dev
-   ```
-
-   OR (for modules not using JSX)
-
-   ```bash
-   npm build
-   npm start
-   ```
+![Keeper — multiple notes](project_images/keeper-app4.png)
 
 ---
 
-## 📌 Course Mapping
+## Lesson bands
 
-This section includes material from:
+Lesson directories use the Udemy numbering prefix (there is no **`309-…`** checkpoint in this tree). Explore any folder named **`NNN-…`** for the matching video.
 
-- **Section 36:** React.js
+| Band (first folder → last) | Topics |
+| --- | --- |
+| `280-jsx-code-challenge` → `285-react-styling-practice` | JSX, expressions, styling practice |
+| `286-react-components` → `289-es6-import-export-practice` | Components, **`import`** / **`export`** |
+| `293-keeper-app-part-1-challenge` | Keeper **part 1** |
+| `295-react-props` → `301-es6-arrow-functions` | Props, DevTools, mapping, map/filter/reduce, arrows |
+| `302-keeper-app-part-2-starting` | Keeper **part 2** |
+| `303-conditional-rendering` → `308-es6-destructuring` | Conditional UI, **`useState`**, destructuring |
+| `310-event-handling-in-react` → `318-managing-a-component-tree-practice` | Events, forms, classes vs hooks, complex state, spread, passing callbacks through trees |
+| `319-keeper-app-part-3-starting` → `320-styling-the-keeper-app-starting` | Keeper **part 3** + styling polish |
+
+Strong single-topic dips: **`306-useState-hook`**, **`311-react-forms`**, **`313-changing-complex-state`**, **`317-managing-a-component-tree`**.
 
 ---
 
-## 🎯 Purpose
+## Run locally
 
-This repository tracks my hands-on progress through the **React module** of Angela Yu’s course. It serves as both a learning log and a demonstration of my growing React.js skill set. If you're a recruiter, mentor, or peer developer—thank you for checking out my work!
+Requires **Node.js** + **npm** (or compatible client). From **inside** any lesson folder:
+
+```bash
+cd 286-react-components
+npm install
+npm run dev
+```
+
+These projects use **Vite** (`dev`, `build`, `preview`). If a lesson’s `package.json` differs (older scratchpad), match its **`scripts`** block—most match the template above.
 
 ---
 
-## 🙌 Let's Connect
+## Navigate this repo
 
-If you'd like to collaborate on another project or have feedback for this one, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/davidhu426).
+**← Previous:** [jQuery (sections 19–20)](../jQuery/)  
+**→ Next:** [Bootcamp overview (root README)](../README.md)
+
+---
