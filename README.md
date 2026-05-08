@@ -2,7 +2,7 @@
 
 Hi! I'm David Hu. This repo is my working archive from **Dr. Angela Yu’s [*The Complete Web Development Bootcamp*](https://www.udemy.com/share/1013gG3@Erd1Db3erwZ4RgornuXTR9x5cyoTWxxPRZpUmiUk_i8faDdRv2trfIecPHOrRxA2/)** on Udemy. It's a project-based path from HTML, CSS, JavaScript, jQuery, and React through tooling, Node/Express and databases, deployment, and introductory Web3.
 
-This was my first entry point into computer science before formal CS or industry; when I naively thought software engineering was just “coding” (Oh how things have changed! lol).
+This was my first entry point into computer science before formal CS or industry; when I naively thought software engineering was just “coding” (Things have really changed! lol).
 
 
 **Contents:** [Module guide](#module-guide) · [Course map](#course-map) · [Technologies & tools](#technologies--tools)
@@ -19,7 +19,7 @@ This was my first entry point into computer science before formal CS or industry
 
 **[`jQuery/`](./jQuery)** — Root [`index.html`](./jQuery/index.html) + [`index.js`](./jQuery/index.js) = **19** API scratchpad (ugly on purpose, interactive). [`Simon Game`](./jQuery/Simon%20Game) = **20** capstone (sequence + audio + levels).
 
-**[`React/`](./React)** — Section **36**. Each lesson is a Vite mini-app; **`293-keeper-app-*` → `320-styling-the-keeper-app-*`** for the **Keeper** arc; [`306-useState-hook`](./React/306-useState-hook) / [`311-react-forms`](./React/311-react-forms) for hooks & forms.
+**[`React/`](./React)** — Section **36**. Each lesson is a Vite mini-app; **Keeper** (Google Keep–style notes): [`293-keeper-app-part-1-challenge`](./React/293-keeper-app-part-1-challenge) → [`302-keeper-app-part-2-starting`](./React/302-keeper-app-part-2-starting) → [`319-keeper-app-part-3-starting`](./React/319-keeper-app-part-3-starting) → [`320-styling-the-keeper-app-starting`](./React/320-styling-the-keeper-app-starting). Also see [`306-useState-hook`](./React/306-useState-hook) and [`311-react-forms`](./React/311-react-forms).
 
 **[`Git/`](./Git)** — Loose chapter notes only; not a full exercise tree.
 
@@ -40,7 +40,7 @@ The **`#`** column is the **Udemy section number** according to the course.
 | Front-end | JavaScript (ES6 core) | 14–15 | [`JavaScript/`](./JavaScript) · top-level `*.js` (variables → arrays/objects, control flow, small exercises) |
 | Front-end | DOM & browser mini-apps | 16–18 | [`DOM Challenge Starting Files`](./JavaScript/DOM%20Challenge%20Starting%20Files) · [`Dicee+Challenge+-+Starting+Files`](./JavaScript/Dicee+Challenge+-+Starting+Files) · [`Drum Kit Starting Files`](./JavaScript/Drum%20Kit%20Starting%20Files) |
 | Front-end | jQuery | 19–20 | [`jQuery/index.html`](./jQuery/index.html) (+ [`index.js`](./jQuery/index.js)) · [`Simon Game`](./jQuery/Simon%20Game) |
-| Front-end | React (+ hooks / Keeper) | 36 | [`React/`](./React) · JSX entry [`280-jsx-code-challenge`](./React/280-jsx-code-challenge) · props/components e.g. [`286-react-components`](./React/286-react-components) · [`306-useState-hook`](./React/306-useState-hook) · [`311-react-forms`](./React/311-react-forms) · Keeper [`293-keeper-app-part-1-challenge`](./React/293-keeper-app-part-1-challenge) → [`320-styling-the-keeper-app-starting`](./React/320-styling-the-keeper-app-starting) |
+| Front-end | React (+ hooks / Keeper) | 36 | [`React/`](./React) · JSX entry [`280-jsx-code-challenge`](./React/280-jsx-code-challenge) · props/components e.g. [`286-react-components`](./React/286-react-components) · [`306-useState-hook`](./React/306-useState-hook) · [`311-react-forms`](./React/311-react-forms) · Keeper [`293-keeper-app-part-1-challenge`](./React/293-keeper-app-part-1-challenge) → [`302-keeper-app-part-2-starting`](./React/302-keeper-app-part-2-starting) → [`319-keeper-app-part-3-starting`](./React/319-keeper-app-part-3-starting) → [`320-styling-the-keeper-app-starting`](./React/320-styling-the-keeper-app-starting) |
 | Tooling | Git, GitHub | *—* | [`Git/`](./Git) *(no index noted in those READMEs)* |
 | Tooling | Bash / command line | — | — |
 | Back-end | Node, Express, EJS, REST, APIs, SQL, PostgreSQL, auth | — | — |
