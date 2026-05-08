@@ -8,7 +8,7 @@ Hi! I'm David Hu. This repo is my working archive from **Dr. Angela Yu**’s **[
   <img src="./assets/udemy-angela-yu-full-stack-bootcamp.jpg" alt="Udemy listing: The Complete Full-Stack Web Development Bootcamp by Dr. Angela Yu" width="320">
 </p>
 
-This was my first entry point into computer science before formal CS or industry; when I naively thought software engineering was just “coding” (Things have really changed! lol). I wrote all of this by hand before the age of AI, no with AI it's not so impressive but I hope you'll look back fondly like I do! :)
+This was my first entry point into computer science before formal CS or industry; when I naively thought software engineering was just “coding” (Things have really changed! lol). I wrote all of this by hand before the age of AI, now with AI it's not so impressive but I hope you'll look back fondly like I do! :)
 
 
 **Contents:** [Module guide](#module-guide) · [Course map](#course-map) · [Technologies & tools](#technologies--tools)
