@@ -42,6 +42,8 @@ Memory game after the handheld Simon toy: **the game flashes a lengthening seque
 3. Each level **extends** the sequence once you complete it correctly.
 4. Wrong move → lose sound / game over → **any key** to retry.
 
+*Remember to unmute the video player to see the game in action!*
+
 https://github.com/user-attachments/assets/1dfe8019-9aa9-4d5b-b07e-fe324826a843
 
 **Layout**
