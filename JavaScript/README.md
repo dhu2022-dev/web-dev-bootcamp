@@ -69,6 +69,9 @@ Run with Node, drop into a scratch HTML page, or use the console.
 
 **Sound:** press play, then unmute if your browser muted the clip.
 
+https://github.com/user-attachments/assets/64028791-2eac-4d5e-9a3e-e22ba977753a
+
+
 ### DOM challenge
 
 ![DOM challenge](project_demos/dom-challenge.png)
