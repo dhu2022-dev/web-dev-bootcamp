@@ -1,109 +1,87 @@
-# 📟 JavaScript Projects
+# JavaScript (sections 14–18)
 
-This folder contains my JavaScript practice from Dr. Angela Yu’s Web Development Bootcamp. It includes foundational syntax exercises, logic challenges, DOM manipulation, and two interactive browser games.
+Vanilla **JavaScript (ES6+)** drills and small browser apps from **Dr. Angela Yu’s** *[The Complete Full-Stack Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)*. Root-level `*.js` files are **language-only** exercises; subfolders are **DOM + events** projects you open in a browser. Broader context: [repo overview](../README.md).
 
-Each file or project aligns with a specific lesson or challenge in the course and reflects hands-on implementation of key JavaScript concepts.
-
----
-
-## 🧠 Skills Practiced
-
-- JavaScript syntax and variables (ES6)
-- String and number operations
-- Conditionals and loops
-- Functions and parameters
-- Arrays and objects
-- DOM manipulation
-- Event listeners and user interaction
-- Higher-order functions and callbacks
-- Keyboard and mouse event handling
-- HTML/CSS integration with JS
+**Contents:** [Competencies](#competencies) · [Course map](#course-map) · [Root scripts (14–15)](#root-scripts-1415) · [Browser projects (16–18)](#browser-projects-1618) · [Previews](#previews) · [Run locally](#run-locally) · [Related](#related)
 
 ---
 
-## 📁 Folder & File Overview
+## Competencies
 
-### 🔢 Core JS Practice Files
+Shorthand for resumes and interviews—everything here is **no framework**, **no build step**.
 
-| File | Concept |
-|------|---------|
-| `Variable.js`, `DataType.js`, `Name.js` | Variable declarations, types, and naming |
-| `TextCasing.js`, `Tweet.js`, `TweetSplice.js` | String manipulation and slicing |
-| `Calculator.js`, `MilkBudget.js` | Math and arithmetic |
-| `Fizzbuzz.js`, `99Bottles.js` | Loops and control flow |
-| `GuestList.js`, `Alert.js` | Arrays and alert behavior |
-| `DogtoHumanAge.js` | Function-based calculations |
-| `Fibonacci.js`, `BeepDiagonal.js` | Recursion and nested loops |
-| `Karel.js`, `KarelChessBoard.js` | Logic puzzles and challenges |
-| `Objects.js` | Objects and dot notation |
+| Area | What’s in here |
+|------|----------------|
+| **Language core** | Types, variables, strings, math, control flow, functions |
+| **Collections & logic** | Arrays, objects, loops, small algorithms (e.g. FizzBuzz, Fibonacci) |
+| **DOM** | Querying elements, changing content/styles/attributes |
+| **Events & UX** | Click and **keyboard** listeners, animations, conditional UI updates |
+| **Media** | Image swaps (dice), **HTML audio** playback (drum kit) |
 
 ---
 
-### 🧩 Interactive Projects
+## Course map
 
-| Folder | Description |
-|--------|-------------|
-| `DOM Challenge Starting Files` | Practice selecting and modifying DOM elements |
-| `Dicee+Challenge++Starting+Files` | Two-player dice game using images, random numbers, and conditionals |
-| `Drum Kit Starting Files` | Keyboard-driven virtual drum set using event listeners and audio playback |
+**`#`** is the **Udemy section number** (same convention as the [root course map](../README.md#course-map)).
 
----
-
-### 🎲 Dicee Challenge Preview
-
-A two-player dice game built using JavaScript conditionals, image manipulation, and DOM updates.
-To play the game, refresh the page! The page should display the person with the larger dice value as the winner.
-
-![Dicee Game Demo](project_images/dicee.gif)
+| # | Focus | Where it lives |
+|---|--------|----------------|
+| **14–15** | ES6 syntax → control flow, arrays/objects, callbacks-style practice | Root [`*.js`](#root-scripts-1415) |
+| **16** | DOM manipulation challenge | [`DOM Challenge Starting Files`](./DOM%20Challenge%20Starting%20Files/) |
+| **17** | Dice game (random rolls, DOM + images, win logic) | [`Dicee+Challenge+-+Starting+Files`](./Dicee+Challenge+-+Starting+Files/) |
+| **18** | Drum kit (keyboard events, sounds, classes) | [`Drum Kit Starting Files`](./Drum%20Kit%20Starting%20Files/) |
 
 ---
 
-### 🥁 Drum Kit Preview
+## Root scripts (14–15)
 
-A virtual drum set using keyboard events to play sounds and trigger button animations.
-Press the keys or the display directly to make different drum sounds. Volume up!
+Run with Node, drop into a scratch HTML page, or use the console—whatever matches how you practiced the lesson.
 
-![Drum Kit Screenshot](project_images/drum-kit.gif)
-
----
-
-### 🧪 DOM Challenge Preview
-
-Practiced selecting elements, manipulating styles, and updating HTML content dynamically through Javascript.
-
-![DOM Challenge Screenshot](project_images/dom-challenge.png)
-
----
-
-## 📌 Course Mapping
-
-This folder covers material from:
-
-- **Section 14:** Intro to JavaScript ES6 (Variables, Strings, Math)
-- **Section 15:** Intermediate JavaScript (Control flow, Loops, Arrays)
-- **Section 16:** DOM Manipulation Basics (selecting, styling, attributes)
-- **Section 17:** Boss Level 1 — Dice Game
-- **Section 18:** Advanced JS & DOM — Drum Kit App
+| Files | Topics |
+|--------|--------|
+| `Variable.js`, `DataType.js`, `Name.js` | Declarations, types, naming |
+| `TextCasing.js`, `Tweet.js`, `TweetSplice.js` | Strings, slicing |
+| `Calculator.js`, `MilkBudget.js` | Arithmetic, simple programs |
+| `Fizzbuzz.js`, `99Bottles.js` | Loops, branching |
+| `GuestList.js`, `Alert.js` | Arrays, basic I/O (`alert`) |
+| `DogtoHumanAge.js` | Functions |
+| `Fibonacci.js`, `BeeperDiagonal.js` | Loops / nested iteration |
+| `Karel.js`, `KarelChessBoard.js` | Grid-style logic puzzles |
+| `Objects.js` | Objects, dot notation |
 
 ---
 
-## 🚀 Running the Projects
+## Browser projects (16–18)
 
-1. Open the folder of the project you're interested in.
-2. Open `index.html` (or html file in the folder) in your browser.
-3. View and edit `index.js` for the main JavaScript logic.
-4. Use the browser dev tools to interact and debug.
-
-> For standalone JS files (like `Fizzbuzz.js`, `Objects.js`, etc.), paste into the browser console or wrap in a basic HTML runner.
-
----
-
-## 🎯 Purpose
-
-These projects show my journey through vanilla JavaScript. From core language syntax to interactive web apps, this folder demonstrates my growth and capability in frontend scripting.
+| Project | Notes |
+|---------|--------|
+| [DOM Challenge](./DOM%20Challenge%20Starting%20Files/) | Select and manipulate DOM nodes (styles, structure). |
+| [Dicee](./Dicee+Challenge+-+Starting+Files/) | Two-player roll; refresh to replay; compares dice via DOM updates. |
+| [Drum kit](./Drum%20Kit%20Starting%20Files/) | Keypress (and click) triggers sounds + button animation. |
 
 ---
 
-## 🙌 Let’s Connect
+## Previews
 
-If you’d like to collaborate or review my work, feel free to connect via GitHub or [LinkedIn](https://www.linkedin.com/davidhu426).
+### Dicee
+
+![Dicee demo](project_images/dicee.gif)
+
+### Drum kit
+
+![Drum kit demo](project_images/drum-kit.gif)
+
+### DOM challenge
+
+![DOM challenge](project_images/dom-challenge.png)
+
+---
+
+## Run locally
+
+**Folders:** open `index.html` in each project directory; logic is typically in `index.js`. DevTools are enough for debugging.
+
+**Root `*.js`:** execute with `node YourFile.js` if the snippet has no browser-only APIs, or paste into the console / a minimal HTML shell.
+
+---
+
