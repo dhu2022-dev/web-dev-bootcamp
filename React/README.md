@@ -25,15 +25,11 @@ Google Keep–style notes app threaded across **four** checkpoints—each folder
 
 [**`293-keeper-app-part-1-challenge`**](./293-keeper-app-part-1-challenge) → [**`302-keeper-app-part-2-starting`**](./302-keeper-app-part-2-starting) → [**`319-keeper-app-part-3-starting`**](./319-keeper-app-part-3-starting) → [**`320-styling-the-keeper-app-starting`**](./320-styling-the-keeper-app-starting)
 
-Screenshots (**`320`** flow):
+Video demo of the Keeper App using React capabilities:
 
-![Keeper — start](project_images/keeper-app1.png)
 
-![Keeper — first note](project_images/keeper-app2.png)
+https://github.com/user-attachments/assets/0b02a5e2-f778-4f4d-845d-e668d5cdd1c8
 
-![Keeper — second note](project_images/keeper-app3.png)
-
-![Keeper — multiple notes](project_images/keeper-app4.png)
 
 ---
 
