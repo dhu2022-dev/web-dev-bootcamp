@@ -53,9 +53,9 @@ Run with Node, drop into a scratch HTML page, or use the console.
 
 | Project | Notes |
 |---------|--------|
-| [DOM Challenge](./DOM%20Challenge%20Starting%20Files/) | Select and manipulate DOM nodes (styles, structure). |
-| [Dicee](./Dicee+Challenge+-+Starting+Files/) | Two-player roll; refresh to replay; compares dice via DOM updates. |
-| [Drum kit](./Drum%20Kit%20Starting%20Files/) | Keypress (and click) triggers sounds + button animation. |
+| [DOM Challenge](./DOM%20Challenge%20Starting%20Files/) | Select and manipulate DOM nodes (styles, structure). Adjusted various elements in the DOM based on video instruction, screenshot is the final result.|
+| [Dicee](./Dicee+Challenge+-+Starting+Files/) | Two-player dice roll game; refresh to replay; compares dice via DOM updates. Whichever player's dice value is higher wins.|
+| [Drum kit](./Drum%20Kit%20Starting%20Files/) | Keypress (and click) to trigger drum sounds + button animation, a virtual "drum kit". |
 
 ---
 
@@ -69,7 +69,10 @@ Run with Node, drop into a scratch HTML page, or use the console.
 
 **Sound:** press play, then unmute if your browser muted the clip.
 
-<video src="project_demos/drum-kit.mp4" controls preload="metadata" width="100%"></video>
+<!-- GitHub README ignores relative video src; use raw.githubusercontent.com -->
+<video src="https://raw.githubusercontent.com/dhu2022-dev/web-dev-bootcamp/main/JavaScript/project_demos/drum-kit.mp4" controls preload="metadata" width="100%"></video>
+
+[Blob view](https://github.com/dhu2022-dev/web-dev-bootcamp/blob/main/JavaScript/project_demos/drum-kit.mp4) · [direct MP4](https://raw.githubusercontent.com/dhu2022-dev/web-dev-bootcamp/main/JavaScript/project_demos/drum-kit.mp4) if the player doesn’t show.
 
 ### DOM challenge
 
