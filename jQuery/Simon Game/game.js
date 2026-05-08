@@ -7,9 +7,10 @@ var userIndex = 0;
 
 function nextSequence(){
     console.log("Next Sequence");
+    userIndex = 0;
     $("h1").text("Level "+level);
     //console.log("hello");
-    var randomNumber = Math.round(Math.random() * 3);
+    var randomNumber = Math.floor(Math.random() * 4);
     var randomChosenColour = buttonColours[randomNumber];
     gamePattern.push(randomChosenColour);
     //console.log(gamePattern);
