@@ -8,8 +8,6 @@ Vanilla **JavaScript (ES6+)** drills and small browser apps from **Dr. Angela Yu
 
 ## Competencies
 
-Shorthand for resumes and interviews—everything here is **no framework**, **no build step**.
-
 | Area | What’s in here |
 |------|----------------|
 | **Language core** | Types, variables, strings, math, control flow, functions |
@@ -35,7 +33,7 @@ Shorthand for resumes and interviews—everything here is **no framework**, **no
 
 ## Root scripts (14–15)
 
-Run with Node, drop into a scratch HTML page, or use the console—whatever matches how you practiced the lesson.
+Run with Node, drop into a scratch HTML page, or use the console.
 
 | Files | Topics |
 |--------|--------|
@@ -65,15 +63,17 @@ Run with Node, drop into a scratch HTML page, or use the console—whatever matc
 
 ### Dicee
 
-![Dicee demo](project_images/dicee.gif)
+![Dicee demo](project_demos/dicee.gif)
 
 ### Drum kit
 
-![Drum kit demo](project_images/drum-kit.gif)
+**Sound:** press play, then unmute if your browser muted the clip.
+
+<video src="project_demos/drum-kit.mp4" controls preload="metadata" width="100%"></video>
 
 ### DOM challenge
 
-![DOM challenge](project_images/dom-challenge.png)
+![DOM challenge](project_demos/dom-challenge.png)
 
 ---
 
