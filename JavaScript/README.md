@@ -69,11 +69,6 @@ Run with Node, drop into a scratch HTML page, or use the console.
 
 **Sound:** press play, then unmute if your browser muted the clip.
 
-<!-- GitHub README ignores relative video src; use raw.githubusercontent.com -->
-<video src="https://raw.githubusercontent.com/dhu2022-dev/web-dev-bootcamp/main/JavaScript/project_demos/drum-kit.mp4" controls preload="metadata" width="100%"></video>
-
-[Blob view](https://github.com/dhu2022-dev/web-dev-bootcamp/blob/main/JavaScript/project_demos/drum-kit.mp4) · [direct MP4](https://raw.githubusercontent.com/dhu2022-dev/web-dev-bootcamp/main/JavaScript/project_demos/drum-kit.mp4) if the player doesn’t show.
-
 ### DOM challenge
 
 ![DOM challenge](project_demos/dom-challenge.png)
