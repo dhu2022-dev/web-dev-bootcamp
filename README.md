@@ -1,6 +1,6 @@
 # Web Development Bootcamp Portfolio
 
-Hi! I'm David Hu. This repo is my working archive from **Dr. Angela Yu**’s **[The Complete Full-Stack Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)** on Udemy. It’s a project-based path from HTML, CSS, JavaScript, jQuery, and React through tooling, Node/Express and databases, deployment, and introductory Web3.
+Hi! I'm David Hu. This repo is my working archive from **Dr. Angela Yu**’s **[The Complete Full-Stack Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)** on Udemy. It’s a project-based course exploring HTML, CSS, JavaScript, jQuery, React, Node/Express, databases, and introductory Web3 with lessons on best practices and integration along the way.
 
 *The image of the course below in case Udemy has its less-than-infrequent skill issues.*
 
