@@ -19,41 +19,33 @@ This was my first entry point into computer science before formal CS or industry
 
 ### [`html-portfolio/`](./html-portfolio)
 
-- Curated **HTML/CSS** gallery: **`index.html`** plus **`screenshots/`** for a fast browse.
-- Not the full lesson tree—highlights such as Flexbox pricing, Mondrian, TinDog ([`Html+CSS/`](./Html+CSS) has everything).
-- **Course span illustrated:** roughly **Sections 2–11** material visualized here.
+- **Sections:** The highlights from **Sections 2–11** (HTML/CSS) curated into a one-stop gallery.
+- **In this folder:** [`index.html`](./html-portfolio/index.html) as the one stop portfolio hub.
 
 ### [`Html+CSS/`](./Html+CSS)
 
-- Every **numbered lesson** + **`Capstone 1`** offline résumé.
-- **Section 2–4:** HTML & multi-page pages.
-- **5–8:** CSS (meme, flag, agency, responsiveness).
-- **9:** Flexbox · **10:** Grid (Mondrian) · **11:** Bootstrap (TinDog).
-- Capstone: [`Capstone 1`](./Html+CSS/Capstone%201).
+- **Sections:** **2–4** HTML/pages · **5–8** CSS · **9** Flexbox · **10** Grid · **11** Bootstrap · **Capstone 1** online résumé.
+- **In this folder:** Full numbered lesson tree + **[`Capstone 1`](./Html+CSS/Capstone%201)**.
 
 ### [`JavaScript/`](./JavaScript)
 
-- **Root `*.js`:** language drills (**Sections 14–15**).
-- **Folders:** DOM + mini-apps (**Sections 16–18**).
-  - [DOM Challenge](./JavaScript/DOM%20Challenge%20Starting%20Files)
-  - [Dicee](./JavaScript/Dicee+Challenge+-+Starting+Files)
-  - [Drum kit](./JavaScript/Drum%20Kit%20Starting%20Files)
+- **Sections:** **14–15** language drills · **16–18** DOM + mini-apps.
+- **In this folder:** Root **`*.js`** files as the language drills · [DOM Challenge](./JavaScript/DOM%20Challenge%20Starting%20Files) · [Dicee](./JavaScript/Dicee+Challenge+-+Starting+Files) · [Drum kit](./JavaScript/Drum%20Kit%20Starting%20Files).
 
 ### [`jQuery/`](./jQuery)
 
-- [**`index.html`**](./jQuery/index.html) + **`index.js`:** **Section 19** API scratchpad (interactive, plain on purpose).
-- **[`Simon Game/`](./jQuery/Simon%20Game):** **Section 20** capstone (sequence, audio, levels).
+- **Sections:** **19** jQuery API scratchpad · **20** Simon game capstone mini-project.
+- **In this folder:** [`index.html`](./jQuery/index.html) + [`index.js`](./jQuery/index.js) · [`Simon Game/`](./jQuery/Simon%20Game).
 
 ### [`React/`](./React)
 
-- **Section 36**—one **Vite** React app per lesson folder.
-- **Keeper** capstone thread: [293](./React/293-keeper-app-part-1-challenge) → [302](./React/302-keeper-app-part-2-starting) → [319](./React/319-keeper-app-part-3-starting) → [320](./React/320-styling-the-keeper-app-starting).
-- Good single-topic stops: [`306-useState-hook`](./React/306-useState-hook), [`311-react-forms`](./React/311-react-forms).
+- **Sections:** **36** (React + Vite lesson apps). Some standalone lessons but many integrated into the "Keeper Notes App" capstone mini-project.
+- **In this folder:** Numbered app folders (e.g. **280+**) · Keeper App **293 → 302 → 319 → 320** · single-topic examples [`306-useState-hook`](./React/306-useState-hook), [`311-react-forms`](./React/311-react-forms).
 
 ### [`Git/`](./Git)
 
-- Loose **Git/GitHub** notes from the course.
-- **Not** a full exercise tree like the other modules.
+- **Sections:** Ad hoc notes from the Git/GitHub parts of the course (no single exercise section).
+- **In this folder:** Loose files only—**not** a full lesson mirror like the other modules.
 
 ---
 
