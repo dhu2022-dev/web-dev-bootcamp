@@ -1,0 +1,9 @@
+A way for you to build on top of existing open source projects.
+Copies open source code written by others onto your local machine. 
+
+To use: use the command "git clone" followed by the repository url, usually hosted on github.
+
+One place to start if you're looking for repos you can build on and clone is:
+github.com/MunGell/awesome-for-beginners#javascript
+which has links to a lot of cool web development projects (like brave browser) you can clone and edit
+as a beginner.
