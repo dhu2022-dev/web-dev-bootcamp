@@ -1,0 +1,5 @@
+.DS_Store
+secrets.txt
+
+# you can also find premade gitignore templates by the github team at
+# https://github.com/github/gitignore
