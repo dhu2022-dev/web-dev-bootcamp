@@ -44,8 +44,8 @@ This was my first entry point into computer science before formal CS or industry
 
 ### [`Git/`](./Git)
 
-- **Sections:** Ad hoc notes from the Git/GitHub parts of the course (no single exercise section).
-- **In this folder:** Loose files only—**not** a full lesson mirror like the other modules.
+- **Sections:** **27** Git, GitHub & version control (Udemy **216–224**).
+- **In this folder:** Practice commits on `chapter*.txt`, [`.gitignore`](./Git/.gitignore), [`clone_notes.txt`](./Git/clone_notes.txt). No runnable app—see [`Git/README.md`](./Git/README.md).
 
 ---
 
@@ -65,7 +65,7 @@ The **`#`** column is the **Udemy section number** according to the course.
 | Front-end | DOM & browser mini-apps | 16–18 | [`DOM Challenge Starting Files`](./JavaScript/DOM%20Challenge%20Starting%20Files) · [`Dicee+Challenge+-+Starting+Files`](./JavaScript/Dicee+Challenge+-+Starting+Files) · [`Drum Kit Starting Files`](./JavaScript/Drum%20Kit%20Starting%20Files) |
 | Front-end | jQuery | 19–20 | [`jQuery/index.html`](./jQuery/index.html) (+ [`index.js`](./jQuery/index.js)) · [`Simon Game`](./jQuery/Simon%20Game) |
 | Front-end | React (+ hooks / Keeper) | 36 | [`React/`](./React) · JSX entry [`280-jsx-code-challenge`](./React/280-jsx-code-challenge) · props/components e.g. [`286-react-components`](./React/286-react-components) · [`306-useState-hook`](./React/306-useState-hook) · [`311-react-forms`](./React/311-react-forms) · Keeper [`293-keeper-app-part-1-challenge`](./React/293-keeper-app-part-1-challenge) → [`302-keeper-app-part-2-starting`](./React/302-keeper-app-part-2-starting) → [`319-keeper-app-part-3-starting`](./React/319-keeper-app-part-3-starting) → [`320-styling-the-keeper-app-starting`](./React/320-styling-the-keeper-app-starting) |
-| Tooling | Git, GitHub | *—* | [`Git/`](./Git) *(no index noted in those READMEs)* |
+| Tooling | Git, GitHub | 27 | [`Git/`](./Git) · [`Git/README.md`](./Git/README.md) — commits on `chapter*.txt`, `.gitignore`, cloning notes |
 | Tooling | Bash / command line | — | — |
 | Back-end | Node, Express, EJS, REST, APIs, SQL, PostgreSQL, auth | — | — |
 | Design & shipping | Deployment (e.g. GitHub Pages) | — | — |

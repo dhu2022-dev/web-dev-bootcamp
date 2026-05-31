@@ -69,6 +69,6 @@ These projects use **Vite** (`dev`, `build`, `preview`). If a lesson’s `packag
 ## Navigate this repo
 
 **← Previous:** [jQuery (sections 19–20)](../jQuery/)  
-**→ Next:** [Bootcamp overview (root README)](../README.md)
+**→ Next:** [Git & GitHub (section 27)](../Git/)
 
 ---
