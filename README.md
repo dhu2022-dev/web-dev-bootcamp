@@ -19,9 +19,7 @@ This was my first entry point into computer science before formal CS or industry
 
 The course section content bundled by competency are bundled together in these directories for your ease of access. Each has a README with lesson-level detail. The section numbers described below correspond to the Udemy course section number.
 
-**[`Html+CSS/`](./Html+CSS)** — Full numbered lesson tree covering all course exercises for sections 2–11. → [README](./Html+CSS/README.md)
-
-**[`html-portfolio/`](./html-portfolio)** — One-page gallery of HTML/CSS highlights from the previous module so you can skip straight to the end of the buildup. Start at [`index.html`](./html-portfolio/index.html).
+**[`Html+CSS/`](./Html+CSS)** — Full numbered lesson tree for sections 2–11, plus a curated portfolio gallery at [`portfolio/index.html`](./Html+CSS/portfolio/index.html). → [README](./Html+CSS/README.md)
 
 **[`JavaScript/`](./JavaScript)** — ES6 drills at the root; DOM mini-apps in subfolders (sections 14–18). → [README](./JavaScript/README.md)
 
@@ -39,7 +37,7 @@ Bootcamp sections in order and where they live in this repo. Lesson folders are 
 
 | Sections | Topic | Folder |
 |----------|-------|--------|
-| 2–11, Capstone 1 | HTML, CSS, Flexbox, Grid, Bootstrap | [`Html+CSS/`](./Html+CSS) · [`html-portfolio/`](./html-portfolio) |
+| 2–11, Capstone 1 | HTML, CSS, Flexbox, Grid, Bootstrap | [`Html+CSS/`](./Html+CSS) |
 | 14–18 | JavaScript & DOM projects | [`JavaScript/`](./JavaScript) |
 | 19–20 | jQuery | [`jQuery/`](./jQuery) |
 | 27 | Git & GitHub | [`Git/`](./Git) |
