@@ -2,7 +2,7 @@
 
 Hi! I'm David Hu. This repo is my working archive from **Dr. Angela Yu**’s **[The Complete Full-Stack Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)** on Udemy. It’s a project-based course exploring HTML, CSS, JavaScript, jQuery, React, Node/Express, databases, and introductory Web3 with lessons on best practices and integration along the way.
 
-*The image of the course below in case Udemy has its less-than-infrequent skill issues.*
+*The image of the course offering below in case Udemy decides to take the course down.*
 
 <p align="center">
   <img src="./assets/udemy-angela-yu-full-stack-bootcamp.jpg" alt="Udemy listing: The Complete Full-Stack Web Development Bootcamp by Dr. Angela Yu" width="320">
@@ -17,59 +17,34 @@ This was my first entry point into computer science before formal CS or industry
 
 ## Module guide
 
-### [`html-portfolio/`](./html-portfolio)
+The course section content bundled by competency are bundled together in these directories for your ease of access. Each has a README with lesson-level detail. The section numbers described below correspond to the Udemy course section number.
 
-- **Sections:** The highlights from **Sections 2–11** (HTML/CSS) curated into a one-stop gallery.
-- **In this folder:** [`index.html`](./html-portfolio/index.html) as the one stop portfolio hub.
+**[`Html+CSS/`](./Html+CSS)** — Full numbered lesson tree covering all course exercises for sections 2–11. → [README](./Html+CSS/README.md)
 
-### [`Html+CSS/`](./Html+CSS)
+**[`html-portfolio/`](./html-portfolio)** — One-page gallery of HTML/CSS highlights from the previous module so you can skip straight to the end of the buildup. Start at [`index.html`](./html-portfolio/index.html).
 
-- **Sections:** **2–4** HTML/pages · **5–8** CSS · **9** Flexbox · **10** Grid · **11** Bootstrap · **Capstone 1** online résumé.
-- **In this folder:** Full numbered lesson tree + **[`Capstone 1`](./Html+CSS/Capstone%201)**.
+**[`JavaScript/`](./JavaScript)** — ES6 drills at the root; DOM mini-apps in subfolders (sections 14–18). → [README](./JavaScript/README.md)
 
-### [`JavaScript/`](./JavaScript)
+**[`jQuery/`](./jQuery)** — jQuery API playground and Simon game capstone (sections 19–20). → [README](./jQuery/README.md)
 
-- **Sections:** **14–15** language drills · **16–18** DOM + mini-apps.
-- **In this folder:** Root **`*.js`** files as the language drills · [DOM Challenge](./JavaScript/DOM%20Challenge%20Starting%20Files) · [Dicee](./JavaScript/Dicee+Challenge+-+Starting+Files) · [Drum kit](./JavaScript/Drum%20Kit%20Starting%20Files).
+**[`Git/`](./Git)** — Git/GitHub practice. No runnable app, the files are dummies to iterate on version histories the git exercises describe from the lessons (section 27). → [README](./Git/README.md)
 
-### [`jQuery/`](./jQuery)
-
-- **Sections:** **19** jQuery API scratchpad · **20** Simon game capstone mini-project.
-- **In this folder:** [`index.html`](./jQuery/index.html) + [`index.js`](./jQuery/index.js) · [`Simon Game/`](./jQuery/Simon%20Game).
-
-### [`React/`](./React)
-
-- **Sections:** **36** (React + Vite lesson apps). Some standalone lessons but many integrated into the "Keeper Notes App" capstone mini-project.
-- **In this folder:** Numbered app folders (e.g. **280+**) · Keeper App **293 → 302 → 319 → 320** · single-topic examples [`306-useState-hook`](./React/306-useState-hook), [`311-react-forms`](./React/311-react-forms).
-
-### [`Git/`](./Git)
-
-- **Sections:** **27** Git, GitHub & version control (Udemy **216–224**).
-- **In this folder:** Practice commits on `chapter*.txt`, [`.gitignore`](./Git/.gitignore), [`clone_notes.txt`](./Git/clone_notes.txt). No runnable app—see [`Git/README.md`](./Git/README.md).
+**[`React/`](./React)** — Numbered Vite lesson apps and the buildup to the Keeper notes app capstone (section 36). → [README](./React/README.md)
 
 ---
 
 ## Course map
 
-The **`#`** column is the **Udemy section number** according to the course.
+Bootcamp sections in order and where they live in this repo. Lesson folders are prefixed with Udemy numbers (e.g. `9.4 Flexbox Pricing Table Project`), so you can usually match a video to a directory by name.
 
-| Area | Topic | # | In this repo |
-|------|--------|---|----------------|
-| Front-end | HTML | 2–4 | [`2.1 Heading Element`](./Html+CSS/2.1%20Heading%20Element), [`3.4 Birthday Invite Project`](./Html+CSS/3.4%20Birthday%20Invite%20Project), [`4.1+Webpages`](./Html+CSS/4.1%2BWebpages), hub [`html-portfolio/`](./html-portfolio) |
-| Front-end | CSS | 5–8 | [`5.1. Adding CSS`](./Html+CSS/5.1.%20Adding%20CSS), [`6.4 Motivation Meme Project`](./Html+CSS/6.4%20Motivation%20Meme%20Project), [`7.3 CSS Flag Project`](./Html+CSS/7.3%20CSS%20Flag%20Project), [`8.4 Web Design Agency Project`](./Html+CSS/8.4%20Web%20Design%20Agency%20Project) |
-| Front-end | Flexbox | 9 | [`9.0 Display Flex`](./Html+CSS/9.0%20Display%20Flex), [`9.1 Flex Direction`](./Html+CSS/9.1%20Flex%20Direction), [`9.4 Flexbox Pricing Table Project`](./Html+CSS/9.4%20Flexbox%20Pricing%20Table%20Project) |
-| Front-end | Grid | 10 | [`10.0 Display Grid`](./Html+CSS/10.0%20Display%20Grid), [`10.2 Grid Placement`](./Html+CSS/10.2%20Grid%20Placement), [`10.3 Mondrian Project`](./Html+CSS/10.3%20Mondrian%20Project) |
-| Front-end | Bootstrap | 11 | [`11.0 Bootstrap Intro`](./Html+CSS/11.0%20Bootstrap%20Intro), [`11.2 Bootstrap Components`](./Html+CSS/11.2%20Bootstrap%20Components), [`11.3 TinDog Project`](./Html+CSS/11.3%20TinDog%20Project) |
-| Front-end | HTML/CSS capstone | Capstone 1 · *Online Resume* ([`Html+CSS/README.md`](./Html+CSS/README.md)) | [`Capstone 1`](./Html+CSS/Capstone%201) |
-| Front-end | JavaScript (ES6 core) | 14–15 | [`JavaScript/`](./JavaScript) · top-level `*.js` (variables → arrays/objects, control flow, small exercises) |
-| Front-end | DOM & browser mini-apps | 16–18 | [`DOM Challenge Starting Files`](./JavaScript/DOM%20Challenge%20Starting%20Files) · [`Dicee+Challenge+-+Starting+Files`](./JavaScript/Dicee+Challenge+-+Starting+Files) · [`Drum Kit Starting Files`](./JavaScript/Drum%20Kit%20Starting%20Files) |
-| Front-end | jQuery | 19–20 | [`jQuery/index.html`](./jQuery/index.html) (+ [`index.js`](./jQuery/index.js)) · [`Simon Game`](./jQuery/Simon%20Game) |
-| Front-end | React (+ hooks / Keeper) | 36 | [`React/`](./React) · JSX entry [`280-jsx-code-challenge`](./React/280-jsx-code-challenge) · props/components e.g. [`286-react-components`](./React/286-react-components) · [`306-useState-hook`](./React/306-useState-hook) · [`311-react-forms`](./React/311-react-forms) · Keeper [`293-keeper-app-part-1-challenge`](./React/293-keeper-app-part-1-challenge) → [`302-keeper-app-part-2-starting`](./React/302-keeper-app-part-2-starting) → [`319-keeper-app-part-3-starting`](./React/319-keeper-app-part-3-starting) → [`320-styling-the-keeper-app-starting`](./React/320-styling-the-keeper-app-starting) |
-| Tooling | Git, GitHub | 27 | [`Git/`](./Git) · [`Git/README.md`](./Git/README.md) — commits on `chapter*.txt`, `.gitignore`, cloning notes |
-| Tooling | Bash / command line | — | — |
-| Back-end | Node, Express, EJS, REST, APIs, SQL, PostgreSQL, auth | — | — |
-| Design & shipping | Deployment (e.g. GitHub Pages) | — | — |
-
+| Sections | Topic | Folder |
+|----------|-------|--------|
+| 2–11, Capstone 1 | HTML, CSS, Flexbox, Grid, Bootstrap | [`Html+CSS/`](./Html+CSS) · [`html-portfolio/`](./html-portfolio) |
+| 14–18 | JavaScript & DOM projects | [`JavaScript/`](./JavaScript) |
+| 19–20 | jQuery | [`jQuery/`](./jQuery) |
+| 27 | Git & GitHub | [`Git/`](./Git) |
+| 36 | React | [`React/`](./React) |
+| — | Bash, Node/Express, databases, deployment, Web3 | Not in this repo yet |
 
 ---
 
