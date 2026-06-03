@@ -1,6 +1,6 @@
 # Git & GitHub (section 27)
 
-Command-line **Git** and **GitHub** practice from **Dr. Angela Yu’s** *[The Complete Full-Stack Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)* (Udemy lessons **216–223**). There’s no app to open here, just scratch text files I edited while working through commits, branches, merges, and the rest. The point of this folder is the **commit history** itself; that’s what the exercises were building toward. Broader context: [repo overview](../README.md).
+Command-line **Git** and **GitHub** practice from **Dr. Angela Yu’s** *[The Complete Full-Stack Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)* (Udemy lessons **216–223**). There’s no app to open here, just scratch text files I edited while working through commits, branches, merges, and the rest. The point of this folder is the **commit history** itself; that’s what the exercises were building toward.
 
 **Contents:** [What's learned](#whats-learned) · [Course map](#course-map) · [How I practiced](#how-i-practiced) · [Navigate this repo](#navigate-this-repo)
 
@@ -28,13 +28,13 @@ Command-line **Git** and **GitHub** practice from **Dr. Angela Yu’s** *[The Co
 | 220 | Cloning | [`clone_notes.txt`](./clone_notes.txt) |
 | 221 | Branching & merging | Edits across `chapter*.txt` — see commit tree below |
 | 222 | Optional Git challenge | [`chapter1.txt`](./chapter1.txt), [`chapter2.txt`](./chapter2.txt), [`chapter3.txt`](./chapter3.txt) — *Tale of Two Cities* snippets |
-| 223 | Forking & pull requests | Course demo only — nothing saved here |
+| 223 | Forking & pull requests | Course demo only, nothing saved here |
 
 ---
 
 ## How I practiced
 
-Commits that touched `Git/` — oldest on the left, newest on the right. Chapter 3 edits were done on a separate branch and merged back (section 221 practice); everything else landed on `main`.
+Commits that touched `Git/`. Oldest on the left, newest on the right. Chapter 3 edits were done on a separate branch and merged back (section 221 practice); everything else landed on `main`.
 
 ```mermaid
 gitGraph
