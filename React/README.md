@@ -62,7 +62,7 @@ Most folders use Vite (`dev`, `build`, `preview`). If a `package.json` differs, 
 
 ## Navigate this repo
 
-**← Previous:** [jQuery (sections 19–20)](../jQuery/)  
-**→ Next:** [Git & GitHub (section 27)](../Git/)
+**← Previous:** [Git & GitHub (section 27)](../Git/)  
+**→ Next:** [Bootcamp overview (root README)](../README.md) — *Node, Bash, and back-end sections still ahead in the course.*
 
 ---

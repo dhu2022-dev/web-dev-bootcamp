@@ -47,6 +47,6 @@ Open `index.html` or `Simon Game/index.html` in a browser. Turn volume up for Si
 ## Navigate this repo
 
 **← Previous:** [JavaScript (sections 14–18)](../JavaScript/)  
-**→ Next:** [React (section 36)](../React/)
+**→ Next:** [Git & GitHub (section 27)](../Git/)
 
 ---

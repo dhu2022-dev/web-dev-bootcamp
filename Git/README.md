@@ -58,7 +58,7 @@ Run `git log --oneline --graph -- Git/` from the repo root to inspect the histor
 
 ## Navigate this repo
 
-**← Previous:** [React (section 36)](../React/)  
-**→ Next:** [Bootcamp overview (root README)](../README.md) — *Node, Bash, and back-end sections still ahead in the course.*
+**← Previous:** [jQuery (sections 19–20)](../jQuery/)  
+**→ Next:** [React (section 36)](../React/)
 
 ---
