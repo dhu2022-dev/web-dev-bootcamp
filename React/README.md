@@ -1,6 +1,6 @@
 # React (section 36)
 
-**[React](https://react.dev/)** (+ **Vite**) lesson apps from **Dr. Angela Yu’s** *[The Complete Full-Stack Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)*. Each numbered folder is its own runnable mini-app. Match the `NNN-…` prefix to the Udemy video.
+**[React](https://react.dev/)** (+ **Vite**) lesson apps from **Dr. Angela Yu’s** *[The Complete Full-Stack Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)* (Section 36). Each folder is a runnable mini-app, match the **`NNN-…`** prefix to the Udemy **video #** (e.g. `286-react-components` → video 286).
 
 **Contents:** [What's Learned](#whats-learned) · [Keeper capstone](#keeper-capstone) · [Lesson bands](#lesson-bands) · [Run locally](#run-locally) · [Navigate this repo](#navigate-this-repo)
 
@@ -34,7 +34,7 @@ https://github.com/user-attachments/assets/0b02a5e2-f778-4f4d-845d-e668d5cdd1c8
 
 ## Lesson bands
 
-| Folders (first → last) | Topics |
+| Video # (folders) | Topics |
 | --- | --- |
 | `280-jsx-code-challenge` → `285-react-styling-practice` | JSX, expressions, styling |
 | `286-react-components` → `289-es6-import-export-practice` | Components, modules |
@@ -42,7 +42,7 @@ https://github.com/user-attachments/assets/0b02a5e2-f778-4f4d-845d-e668d5cdd1c8
 | `303-conditional-rendering` → `308-es6-destructuring` | Conditional UI, `useState`, destructuring |
 | `310-event-handling-in-react` → `318-managing-a-component-tree-practice` | Events, forms, complex state, component trees |
 
-Keeper checkpoints (`293`, `302`, `319`, `320`) sit between these bands—see above.
+Keeper checkpoints (videos **293**, **302**, **319**, **320**) sit between these bands—see above.
 
 ---
 

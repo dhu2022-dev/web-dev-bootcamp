@@ -1,6 +1,6 @@
 # HTML & CSS (sections 2–11 + Capstone 1)
 
-Hands-on exercises from **Dr. Angela Yu’s** *[The Complete Full-Stack Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)*. Every numbered folder is a lesson exercise. Match the folder prefix to find its corresponding Udemy video (e.g. `9.4 Flexbox Pricing Table Project`).
+Hands-on exercises from **Dr. Angela Yu’s** *[The Complete Full-Stack Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)*. Folder names follow **section # · lesson #** (e.g. `9.4 Flexbox Pricing Table Project` = section 9, lesson 4).
 
 For a curated gallery of highlights, open [`portfolio/index.html`](./portfolio/index.html). The [`portfolio/`](./portfolio/) folder also has early lesson starters (`public/`), instructor reference files (`solution.html`, `goal.png`), and personal about/contact pages.
 
@@ -10,7 +10,7 @@ For a curated gallery of highlights, open [`portfolio/index.html`](./portfolio/i
 
 ## How folders map to the course
 
-| # | Topic | Folders (first → last) |
+| Section # | Topic | Folders (first → last) |
 |---|--------|------------------------|
 | 2–4 | HTML through multi-page sites | `2.1 Heading Element` → `4.1+Webpages` |
 | 5–6 | Intro CSS, box model, early projects | `5.1. Adding CSS` → `6.4 Motivation Meme Project` |
@@ -21,7 +21,7 @@ For a curated gallery of highlights, open [`portfolio/index.html`](./portfolio/i
 | 11 | Bootstrap | `11.0 Bootstrap Intro` → `11.3 TinDog Project` |
 | Capstone 1 | Online resume | [`Capstone 1`](./Capstone%201) |
 
-Vanilla HTML5/CSS3 throughout; Bootstrap 5 in section 11.
+Vanilla HTML5/CSS3 throughout; Bootstrap 5 in Section 11.
 
 ---
 

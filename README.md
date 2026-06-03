@@ -17,7 +17,7 @@ This was my first entry point into computer science before formal CS or industry
 
 ## Module guide
 
-The course section content bundled by competency are bundled together in these directories for your ease of access. Each has a README with lesson-level detail. The section numbers described below correspond to the Udemy course section number.
+The course content bundled by competency lives in these directories. Each has a README with lesson-level detail. Numbers like **Section 14** are Udemy course sections; **Lesson 216**-style numbers are individual videos within a section.
 
 **[`Html+CSS/`](./Html+CSS)** — Full numbered lesson tree for sections 2–11, plus a curated portfolio gallery at [`portfolio/index.html`](./Html+CSS/portfolio/index.html). → [README](./Html+CSS/README.md)
 
@@ -33,9 +33,9 @@ The course section content bundled by competency are bundled together in these d
 
 ## Course map
 
-Bootcamp sections in order and where they live in this repo. Lesson folders are prefixed with Udemy numbers (e.g. `9.4 Flexbox Pricing Table Project`), so you can usually match a video to a directory by name.
+Bootcamp **sections** in order and where they live in this repo. Folder prefixes match the course: `9.4 …` = section 9 · lesson 4; `280-…` = video #280 (React).
 
-| Sections | Topic | Folder |
+| Section # | Topic | Folder |
 |----------|-------|--------|
 | 2–11, Capstone 1 | HTML, CSS, Flexbox, Grid, Bootstrap | [`Html+CSS/`](./Html+CSS) |
 | 14–18 | JavaScript & DOM projects | [`JavaScript/`](./JavaScript) |

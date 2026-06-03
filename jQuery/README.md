@@ -1,6 +1,6 @@
 # jQuery (sections 19–20)
 
-[**jQuery**](https://jquery.com/) exercises from **Dr. Angela Yu’s** *[The Complete Full-Stack Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)*. Section 19 is an API sandbox; section 20 is the Simon game capstone.
+[**jQuery**](https://jquery.com/) exercises from **Dr. Angela Yu’s** *[The Complete Full-Stack Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)*. Section 19 is an API sandbox; Section 20 is the Simon game capstone.
 
 **Contents:** [What's learned](#whats-learned) · [Course map](#course-map) · [Simon preview](#simon-preview) · [Run locally](#run-locally) · [Navigate this repo](#navigate-this-repo)
 
@@ -20,7 +20,7 @@
 
 ## Course map
 
-| # | Where |
+| Section # | Where |
 | --- | --- |
 | 19 | [`index.html`](./index.html) + [`index.js`](./index.js) — API playground |
 | 20 | [`Simon Game/`](./Simon%20Game/) — memory game capstone |

@@ -16,13 +16,13 @@ Vanilla **JavaScript (ES6+)** drills and small browser apps from **Dr. Angela Yu
 | **Events & UX** | Click and keyboard listeners, animations, conditional UI updates |
 | **Media** | Image swaps (dice), HTML audio playback (drum kit) |
 
-Sections 14–15 build the language foundation in root scripts; sections 16–18 apply it in browser projects.
+Sections 14–15 build the language foundation in root scripts; Sections 16–18 apply it in browser projects.
 
 ---
 
 ## Course map
 
-| # | Where |
+| Section # | Where |
 | --- | --- |
 | 14–15 | Root [`*.js`](#root-scripts-1415) |
 | 16 | [`DOM Challenge Starting Files`](./DOM%20Challenge%20Starting%20Files/) |

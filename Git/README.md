@@ -1,6 +1,6 @@
 # Git & GitHub (section 27)
 
-Command-line **Git** and **GitHub** practice from **Dr. Angela Yu’s** *[The Complete Full-Stack Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)* (Udemy lessons **216–223**). There’s no app to open here, just scratch text files I edited while working through commits, branches, merges, and the rest. The point of this folder is the **commit history** itself; that’s what the exercises were building toward.
+Command-line **Git** and **GitHub** practice from **Dr. Angela Yu’s** *[The Complete Full-Stack Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)* (**Section 27** · lessons **216–223**). There’s no app to open here, just scratch text files I edited while working through commits, branches, merges, and the rest. The point of this folder is the **commit history** itself; that’s what the exercises were building toward.
 
 **Contents:** [What's learned](#whats-learned) · [Course map](#course-map) · [How I practiced](#how-i-practiced) · [Navigate this repo](#navigate-this-repo)
 
@@ -20,7 +20,7 @@ Command-line **Git** and **GitHub** practice from **Dr. Angela Yu’s** *[The Co
 
 ## Course map
 
-| Lesson | Focus | In this folder |
+| Lesson # | Focus | In this folder |
 | --- | --- | --- |
 | 216–217 | Git on the command line | Commits on [`chapter*.txt`](./chapter1.txt) |
 | 218 | GitHub & remotes | Push/pull of this bootcamp repo (lesson exercise) |
@@ -34,7 +34,7 @@ Command-line **Git** and **GitHub** practice from **Dr. Angela Yu’s** *[The Co
 
 ## How I practiced
 
-Commits that touched `Git/`. Oldest on the left, newest on the right. Chapter 3 edits were done on a separate branch and merged back (section 221 practice); everything else landed on `main`.
+Commits that touched `Git/`. Oldest on the left, newest on the right. Chapter 3 edits were done on a separate branch and merged back (lesson 221); everything else landed on `main`.
 
 ```mermaid
 gitGraph
