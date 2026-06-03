@@ -2,7 +2,7 @@
 
 Vanilla **JavaScript (ES6+)** drills and small browser apps from **Dr. Angela Yu’s** *[The Complete Full-Stack Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)*. Root-level `*.js` files are language-only exercises (sections 14–15); subfolders are DOM + events projects you open in a browser (sections 16–18).
 
-**Contents:** [What you learn](#what-you-learn) · [Course map](#course-map) · [Root scripts (14–15)](#root-scripts-1415) · [Previews](#previews) · [Run locally](#run-locally) · [Navigate this repo](#navigate-this-repo)
+**Contents:** [What's learned](#whats-learned) · [Course map](#course-map) · [Root scripts (14–15)](#root-scripts-1415) · [Previews](#previews) · [Run locally](#run-locally) · [Navigate this repo](#navigate-this-repo)
 
 ---
 
